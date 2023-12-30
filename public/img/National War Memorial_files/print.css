@@ -1,0 +1,237 @@
+.col-md-5 {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 41.666667%;
+	flex: 100%;
+	max-width: 100%;
+	text-align: center;
+}
+
+.nwmImpLinks,
+.siteImpLinks {
+	background-color: transparent;
+}
+
+.nwmImpLinks .impLinkBlock .titleText,
+.siteImpLinks .impLinkBlock .titleText {
+	color: #000;
+}
+
+.neverForgotten .row .col-md-6 img {
+	margin: auto;
+	display: block;
+}
+
+#header {
+	position: unset;
+}
+
+.copyright {
+	padding-top: 100px;
+}
+
+.footerLogos .swiper-slide {
+	width: 50%;
+	float: left;
+	padding-bottom: 30px;
+}
+
+.topStrip .rightLinks,
+.copyright p,
+.footerLinks {
+	text-align: center;
+}
+
+.footerLogos .swiper-slide {
+	width: 20% !important;
+	float: left;
+}
+
+.honorsSearchWrap,
+.resTab .tabNav .r-tabs-state-active a::after,
+.swiper-slide-duplicate,
+.footerLogoSlider .footerSliderArrow,
+.footerLogos .subscribeNewslettersForm label,
+#backtotop,
+.siteImpLinks .impLinkBlock .icon,
+.nwmImpLinks ul li::before,
+.siteImpLinks ul li::before,
+.nwmImpLinks .impLinkBlock .icon,
+.stripRight .bordernone,
+.honorsSearchWrap,
+.homeNotification,
+.form-control-wrap,
+.rightLinks .search,
+.rightLinks .language,
+.homeBanner .homeSliderArrow,
+.socialLinks,
+.topStrip li.fontResize,
+.audioClips,
+.bustWrap .fa-search {
+	display: none !important;
+}
+
+.neverForgotten .button,
+.card .collapse {
+	display: block;
+}
+
+.copyright .row .col-lg-9,
+.footerLogos .row .col-md-8,
+.footerLogos .row .col-md-4,
+.neverForgotten .row .col-md-6,
+.topStrip .stripRight {
+	width: 100%;
+	max-width: 100%;
+}
+
+.neverForgotten .row,
+.copyright .row,
+.footerLogos .row,
+.footerLogoSlider .swiper-wrapper {
+	display: unset;
+	margin: 10px;
+}
+
+.topStrip .row {
+	margin: 0;
+	display: unset;
+}
+
+.container {
+	width: 100%;
+	max-width: 700px !important;
+	margin: 0 auto;
+}
+
+.nwmImpLinks {
+	padding: 0px 0 10px 0;
+	margin-top: 0;
+}
+
+.homeBanner,
+.innerBanner,
+.souvenirBanner,
+.noBanner {
+	margin-top: 0px;
+}
+
+.neverForgotten {
+	padding: 0;
+}
+
+.upcomingEvents .homeEvents {
+	margin-top: 35px;
+}
+
+.neverForgotten {
+	text-align: center;
+}
+
+.copyright,
+.footerLogos {
+	padding-top: 0px;
+	padding: 0;
+}
+
+.neverForgotten h2 {
+	margin-top: 0px;
+}
+
+.memoriesItem .productCard .memoriesTitle a {
+	top: -140px;
+	position: relative;
+}
+
+.memoriesItem {
+	height: 180px;
+}
+
+.footerLogos .swiper-slide {
+	padding-bottom: 0;
+}
+
+.swiper-slide {
+	width: 100% !important;
+	transition-duration: inherit !important;
+	transform: unset !important;
+}
+
+.swiper-wrapper {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+
+.neverForgotten .button {
+	color: black;
+	text-decoration: unset;
+	background-color: transparent;
+}
+
+.yourVisit .icon {
+	margin: auto;
+}
+
+.yourVisit p {
+	text-align: center;
+}
+
+.downloadApp {
+	width: 280px;
+	margin: auto;
+}
+
+.downloadOn p {
+	text-align: center;
+}
+
+.memoriesItem .imgHolder img {
+	position: relative;
+	top: -43px;
+}
+
+.downloadHomeApp h2 {
+	text-align: center;
+	margin-top: 60px;
+}
+
+.downloadHomeApp .appImgHolder {
+	margin-bottom: 0px;
+	margin: auto;
+	display: block;
+	width: 460px;
+}
+
+.upcomingEvents {
+	background-color: transparent;
+}
+
+.eventLarge .bottomCard {
+	bottom: -110px;
+}
+
+.eventLarge .bottomCard .eventDate,
+.eventLarge .bottomCard .eventTitle {
+	color: #000;
+}
+.resTab .tabNav .r-tabs-state-active a {
+	color: #000;	
+	font-weight:bold;
+	background-color: transparent;
+}
+.homeMedia .resTab .tabNav .r-tabs-state-active a {
+	color: #1e1e1e;
+	font-weight: bold;
+}
+.homeMemories .titleHeader h2{
+	text-align: center;
+	width: 100%;
+}
+.eventLarge {
+	overflow: unset;
+	height: 300px;
+}
+.eventLarge:hover .bottomCard {
+	bottom: 0;
+	position: relative;
+}

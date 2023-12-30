@@ -1,0 +1,82 @@
+#div-competition_doc img { height: 50px; }
+.volunteerFormWrap .silver-file-input { top: -30px; position: relative; z-index: 2; width: 100% !important; height: calc(2.25rem + 2px) !important; margin: 0px; opacity: 0; }
+.volunteerFormWrap .allowed-format { margin-top: -15px; }
+.view-field { background: #efefef; border: 1px solid #ddd; padding: 10px 15px; }
+.track-label { float: left; margin-right: 5px; }
+.cart_buttons { text-align: right; clear: both; }
+.form-group .errorMessage, .form-group .help-block, .form-group .successMessage { z-index: 9; }
+.has-err { margin: 0px; padding-left: 15px; }
+.view-field.changeofguard { margin-bottom: 20px; }
+.errors { margin: 0px; padding-left: 20px; }
+
+#emailverify-email .btn, #field-otp-email .btn { padding: 10px; }
+.email-error.error { color: #a94442; font-size: 80%; }
+.email-error.success { color: #218838; font-size: 80%; }
+.emailtimer { font-size: 80%; color: #218838; }
+.form-group-emailverify input, .field-otp-email input { padding-right: 5px !important; }
+.form-group-emailverify .input-group, .form-group-otp .input-group { margin-bottom: 5px !important; }
+.eotp-error.error { color: #a94442; font-size: 80%; }
+.eotp-error.success { color: #218838; font-size: 80%; }
+
+#mobileverify-mobile .btn, #field-otp-mobile .btn { padding: 10px; }
+.mobile-error.error { color: #a94442; font-size: 80%; }
+.mobile-error.success { color: #218838; font-size: 80%; }
+.mobiletimer { font-size: 80%; color: #218838; }
+.form-group-mobileverify input, .field-otp-mobile input { padding-right: 5px !important; }
+.form-group-mobileverify .input-group, .form-group-otp .input-group { margin-bottom: 5px !important; }
+.eotp-error.error { color: #a94442; font-size: 80%; }
+.eotp-error.success { color: #218838; font-size: 80%; }
+
+button.btn.btn-outline-primary.active {
+    background: #DEB887 !important;
+    border: none !important;
+}
+button.btn.btn-outline-primary.skip {
+    background: #D3D3D3 !important;
+    border: none !important;
+}
+button.btn.btn-outline-primary.attempt {
+    background: #9fbf7a !important;
+    border: none !important;
+}
+/* #rollHonourResualt_length, #rollHonourResualt_info, #rollHonourResualt_paginate{
+    display: none;
+}
+.dataTables_filter{
+    display: none;
+} */
+.selectOpt.selected .pollItem::before { content: none; }
+li .btn-result {-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; padding:17px 17px 17px 40px; position:relative; border: 1px solid #dfdfdf; color:#8d2c2b; font-weight:600; margin-bottom: 0px;}
+.indianLinks img { height: 70px; width: auto; }
+.rollHonourResualt tfoot td { padding: 20px 15px 20px 15px !important; text-align: left !important; }
+.rollHonourResualt tfoot td .totaltitle { margin-top: 10px; }
+.rollHonourResualt tfoot td .totaltitle span { font-weight: bold; }
+.totalrec { margin-top: 6px; }
+.entryperpage { -moz-appearance:auto; height: 36px; margin-left: 15px; }
+ul.paging { list-style: none; margin: 5px 0px; font-weight: bold; }
+ul.paging li { float: left;  }
+ul.paging li.prev a, ul.paging li.next a, ul.paging li.page a, ul.paging li.first a, ul.paging li.last a { color: #8d2c2b; padding: 0 10px; }
+
+li.prev, li.page, li.first, li.next { border-right: 1px solid #dddddd; }
+.rollHonourResualt tr th:first-child, .rollHonourResualt tr td:first-child { width: 60px !important; }
+.page.acitve { color: #ffffff; border: 1px solid #dddddd; background: #8d2c2b; padding: 0 10px; }
+#scaptchatext { float: left; width: 150px; }
+.scaptcha-s { cursor: pointer; float: left; margin-left: 15px; margin-top: 10px; font-size: 25px; color: #8d2c2b; }
+.scaptchaImg { float: left; margin-top: 5px; margin-left: 15px; }
+/*22apr2022 divya*/
+.custom-checkbox .custom-control-input:checked~.custom-control-label::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+}
+
+.custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3e%3cpath stroke='%23fff' d='M0 2h4'/%3e%3c/svg%3e");
+}
+
+.custom-checkbox .custom-control-input:disabled:checked~.custom-control-label::before,
+.custom-checkbox .custom-control-input:disabled:indeterminate~.custom-control-label::before {
+    background-color: rgba(135, 96, 251, 0.5);
+}
+.headerRow {
+    padding: 15px 0;
+    background: #fff;
+}

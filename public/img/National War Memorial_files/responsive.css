@@ -1,0 +1,1669 @@
+@media only screen and (max-width: 1400px){
+.homeBanner .homeSliderArrow.homeBanner-next {right: 8px;}
+.homeBanner .homeSliderArrow.homeBanner-prev {left: 8px;}
+.container { max-width: 1210px; }
+#navbar-nav li a, .bookVisitLink { font-size:1.063em; }
+.khClass #navbar-nav li a, .mlClass #navbar-nav li a, .mzClass #navbar-nav li a, .ngClass #navbar-nav li a { font-size: 0.85em; }
+.tmClass #navbar-nav li a { font-size: 0.75em; }
+#navbar-brand { width: 350px; }
+.homeBanner, .innerBanner, .souvenirBanner, .noBanner { margin-top: 138px; }
+.neverForgotten h2, .upcomingEvents h2, .downloadHomeApp h2, .homeMemories h2, .honorsSearch h1 { font-size: 1.675em; }
+.mlClass .neverForgotten h2, .mlClass .upcomingEvents h2, .mlClass .downloadHomeApp h2, .mlClass .homeMemories h2, .mlClass .honorsSearch h1, .tmClass .neverForgotten h2, .tmClass .upcomingEvents h2, .tmClass .downloadHomeApp h2, .tmClass .homeMemories h2, .tmClass .honorsSearch h1 { font-size: 1.375em; }
+.honorsSearch h1 {font-size: 1.5em;}
+.honorsSearch { padding: 20px; }
+.honorsSearchForm .form-group { margin-bottom: 15px; }
+.honorsSearchForm .form-group.mt-3 { margin-top: 0 !important; }
+.memoriesItem:hover:before {height: 47%;}
+.footerLogoSlider .footerSliderArrow.footerLogoSlider-prev {left: -10px;}
+.footerLogoSlider .footerSliderArrow.footerLogoSlider-next {right: -10px;} 
+.volunteerFormWrap { padding: 30px; }
+.timeline-content .rightContent h2 {font-size: 1.300em;}
+.aboutMemorial .whiteBox { padding: 30px; }
+.muralItem p { min-height:75px; }
+.aboutHexagonList li {font-size: 1.025em;}
+.aboutHexagonList li .hiText { font-size: 1.1em; }
+.facilitynwmList .facilitynwmItem .titleText { font-size: 0.938em; font-weight:400; }
+.hdCatItem {padding: 30px 10px 0 10px;min-height: 188px;}
+.postal-box{padding: 0 10px;}
+.eventLarge { height: 314px; }
+.honourPhoto .imgHolder { min-height: 407px; }
+.homeGalleryItem { height:215px; }
+.eventItem .imgHolder{ height: 240px; }
+.galleryItem .imgHolder { height: 190px; }
+.whatsNew .store_box{min-height: 350px;}
+.honorsSearchWrap { margin-top: -188px; }
+.honorsSearch { max-width:370px; }
+.honorsSearch .honorsSearchHandel { width:48px; line-height:67px;}
+.honorsSearch .colleps { right:20px; top:20px; }
+/*.virtualTourVideo { max-width:900px;}*/
+.productImgSlider, .gallery-thumbs {height: 380px;}
+.indianLinks li {padding-left: 5px;}
+.indianLinks li:first-child { padding-left: 0; }
+.indianLinks li:before { left: -1px; }
+.footerLogos:before { margin-right: 210px; }
+.footerLinks li {padding-right: 40px;}
+.footerLinks li:not(:last-child):before { right:21px;}
+.footerLinks { margin: 15px 0 0 0;}
+.urClass .footerLinks li {padding-right: 0;padding-left: 40px;}
+.urClass .footerLinks li:not(:last-child):before {left: 21px;}
+.urClass .indianLinks li { padding-right: 5px; }
+.urClass .indianLinks li:before {right: -2px;} 
+.ksClass .footerLinks li {padding-right: 0;padding-left: 40px;}
+.ksClass .footerLinks li:not(:last-child):before {left: 21px;}
+.ksClass .indianLinks li { padding-right: 5px; }
+.ksClass .indianLinks li:before {right: -2px;} 
+/*.tourItem { padding-top: 30px; }*/
+/*.khClass .activitiesnwm .whiteBox { min-height: 460px; }*/
+.khClass .activitiesnwm .largeBox .wreathWould { padding-top: 7px; }
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 196px; }
+.whatsNew .topselling_product .imgHolder { height:290px; }
+.homePopupBody { max-width: 640px; padding: 15px; }
+.homePopupBody h2 { font-size: 18px; }
+/*.popupBottomBlock { width: 50%; }*/
+.multiRose {bottom: 21px; width: 85px; margin-left: -45px;}
+.roseFlow {width: 90px;margin-left: -49px;top: 49%;}
+.homePopupBody .smallImgHolder {height: 100px;width: 100px;bottom: -50px;}
+.homePopupBody .smallImgHolder.active {width: 50px;height: 50px;bottom: -12px;}
+.homageImgWrapIndv .multiRose {bottom: 95px;width: 245px;height: 45px; margin-left: -95px; }
+.homageImgWrapIndv .indYoddhasName {font-size: 26px;top: 93px;margin-left: -105px; width: 250px;}
+.homePopupBody .homageImgWrapIndv .smallImgHolder.active { width: 120px; bottom: 40px; margin-left: 20px;}
+.homageImgWrapIndv .roseFlow {height: 120px;width: 240px;margin-left: -94px;}
+.homePopupBody .homageImgWrapIndv .smallImgHolder { bottom: -80px; }
+.indianLinks { margin-left: -15px; }
+.muralsTab.resTab .tabNav li {width: 25%;}
+.asClass .download-app { height:auto;}
+.grClass .muralsTab.resTab .tabNav li { width:auto;}
+.kdClass .downloadHomeApp .appImgHolder {position: relative;bottom: -20px;}
+.khClass .topStrip li{padding: 0 5px;}
+.ngClass .homeMedia .resTab .tabNav li a { font-size: 22px; }
+.ngClass .footerLinks li {padding-right: 20px;}
+.ngClass .footerLinks li:not(:last-child):before {right: 8px;}
+.mlClass .topStrip li { padding: 0 5px; }
+.mlClass #navbar-nav li a {padding: 0 3px;}
+.pay-homeage-img{ width:45%}
+.mlClass .bookVisitLink {font-size: 14px;}
+.khClass #navbar-nav li a, .mlClass #navbar-nav li a, .mzClass #navbar-nav li a, .ngClass #navbar-nav li a {font-size: 0.80em;}
+.mlClass .topStrip li {padding: 0 3px;}
+.tlClass #navbar-nav li a, .tlClass .bookVisitLink {font-size: 1em;}
+.tlClass #navbar-nav li a{padding: 0 5px;}
+.aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 99px;}
+.tmClass .eventSearch .event-select .form-control { font-size: 14px;}
+.mlClass .sendOtpField .button{font-size: 11px}
+.mlClass .aboutHexagon .button { padding-left:10px; padding-right:10px; }
+.muralDataListWrap .muralItem .imgHolder { height: 235px; }
+.tourItem .imgHolder { height: 209px; }
+#accessControl .contrastChanger.normal { margin-left: 5px; }
+.ngClass .topStrip li, .mzClass .topStrip li, .khClass .topStrip li, .grClass .topStrip li, .asClass .topStrip li {padding: 0 3px;}
+.honorsSearchWrap { right: 50px; }
+}
+@media only screen and (max-width: 1169px){
+.search { right: 55px; }	
+/*.search a, .search a:hover, .search a.active { background: #b08b29; color: #fff; }*/
+.bookVisitLink { margin-left:0; margin-right:55px; width: auto; text-align: center; }
+.userBtnLinkWrap { margin-right:55px; }
+.navbar-toggler, .mobileNav { display: block; }
+#wrapper, .mobileNav {-webkit-transition: -webkit-transform 0.5s;transition: transform 0.5s;}
+#header { position: static; }
+#header.headerFixed { top: 0; }
+#header.headerFixed #navbar-brand img { width: 100%; }
+.homeBanner, .innerBanner, .souvenirBanner, .noBanner { margin-top: 0; }
+#navMob ul ul { display: block; }
+#navbar-nav { display: none !important; }
+.homeNotification, .nwmImpLinks { margin-top: 0; }
+.marqueeScrollingWrap{box-shadow: 0 0 0 rgba(0, 0, 0, 0); padding-left:150px; padding-right:85px;}
+.marqueeScrollingWrap h2 { left: 0; }
+.marqueeScrollingWrap .btnMPause { left: 120px; }
+.marqueeScrollingWrap .viewAll { right: 0; }
+.honorsSearch { margin-right: 50px; }
+.honorsSearch h1 { margin-bottom: 10px; }
+.homeBanner .homeSliderArrow.homeBanner-next {right: 10px;}
+.homeBanner .homeSliderArrow.homeBanner-prev {left: 10px;}
+.nwmImpLinks, .homeMedia { padding: 30px 0; }
+.neverForgotten { /*padding-top: 50px;*/ padding-bottom:190px; }
+.upcomingEvents .homeEvents, .homeMediaBlock { padding: 30px; }
+/*.upcomingEvents { padding-bottom: 50px; }*/
+.memoriesItem:hover:before {height: 50%;}
+.footerLogos { padding: 30px 0; }
+.footerLogoSlider { padding: 0 50px; }
+.footerLogoSlider .footerSliderArrow.footerLogoSlider-prev { left: 0; }
+.footerLogoSlider .footerSliderArrow.footerLogoSlider-next { right: 0; }
+.footerRow .customSelect { padding: 0 23px 0 5px; }
+.footerLinks li { padding-right: 8px; }
+.footerLinks li:not(:last-child):before { right: 1px; }
+.copyright { padding: 15px 0; }
+#backtotop {bottom: 176px;}
+.downloadHomeApp .appImgHolder div { margin-left: 7px; }
+.pageTitle h1 { font-size: 2.188em; }
+.commonPad, #main { padding-bottom:40px; padding-top:40px;}
+.padBotNone { padding-bottom: 0; }
+.padTopNone { padding-top: 0; }
+.lastSection { margin-bottom:-40px;}
+.firstSection { margin-top:-40px;}
+.volunteerForm .selectDays li { padding: 0 23px; }
+.exploreMap h1 { font-size: 2em; }
+.mapHexagon img { max-width: 70%; }
+.timeline-content .rightContent h2 {font-size: 1.100em;}
+.topStrip li { padding: 0 4px; }
+.urClass .topStrip li:last-child{padding-right: 4px;}
+.ksClass .topStrip li:last-child{padding-right: 4px;}
+h2 { font-size: 1.8em;}
+h3 { font-size: 1.6em;}
+h4 { font-size: 1.4em;}
+h5 { font-size: 1.2em;}
+h6 { font-size: 1.1em;}
+.largeFont { font-size: 1.1em; }
+.paramYoddhaItem .paramYoddhaName { font-size: 18px; }
+.paramYoddhaItem .paramYoddhaName .small { font-size: 16px; font-weight:600; }
+.paramYoddhaDetail { background:#fff; }
+.muralItem h2 {font-size: 1.100em;}
+.muralItem h2 .smallText {font-size: 0.85em;}
+.muralItem .muralYear { font-size: 15px; }
+.exploreYoddhaItem h3 a { font-size: 16px; }
+.exploreYoddhaItem h3 .smallText, .exploreYoddhaItem p { font-size: 14px; }
+.searchHonour .form-control, .searchHonour .custom-select select.form-control, .honourSrhResualt .titleHeader .custom-select select.form-control, .honourResualtWrap .dataTables_length select { height: 40px; }
+.searchHonour .custom-select:before, .honourSrhResualt .titleHeader .custom-select:before {top: 4px;}
+.searchHonour .button {width: 40px;height: 40px; padding: 10px 5px; top:auto; bottom: 0;}
+.searchHonour .button .fa{font-size: 19px; }
+.searchHonour .row { padding-right: 50px; }
+.urClass .searchHonour .row { padding-left:50px; }
+.ksClass .searchHonour .row { padding-left:50px; }
+.mediumFont {font-size: 1em;}
+.brdStyle.resTab .tabNav li a { font-size: 16px; }
+.aboutSignificance { background-position:-100px center; }
+.highlightsnwmItem h3 { font-size: 18px; }
+.facilitynwmList li { -webkit-box-flex: 0;-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25%; }
+.facilitynwmList li:nth-child(6):before { display: block; }
+.facilitynwmList li:nth-child(4):before, .facilitynwmList li:nth-child(8):before, .facilitynwmList li:nth-child(12):before, .facilitynwmList li:nth-child(16):before { display: none; }
+.activitiesnwm .largeBox .wreathWould { background-position:0 14px;width: 80%; }
+.honourSrhResualt .rightFilter .listGridView { display: none; }
+.honourResualtWrap .dataTables_info {padding-top: 15px;padding-left: 15px;}
+.dataTables_wrapper .dataTables_paginate {padding: 15px;}
+.dataTables_wrapper .dataTables_info { float:none; text-align:center; }
+.dataTables_wrapper .dataTables_paginate {float: none;text-align: center;padding-top: 70px;}
+.honourResualtWrap .dataTables_length {left: auto;bottom: 6px;border: 0;right: 15px;}
+.honourSrhResualt .titleHeader { margin-bottom:20px !important; }
+.exploreYoddhaItem .bottomCard { padding: 12px 5px; }
+.hdCatItem p { font-size: 15px; }
+.hdCatItem {padding: 15px 1px 0 1px;min-height: 170px;}
+.hdCatItem p small { font-size: 12px; }
+.donateMartyr h2 { font-size: 22px; }
+.planYourVisit .timings{border-right: 1px solid #ddd; padding-bottom: 30px;}
+.planYourVisit h6{font-size: 14px;}
+.planYourVisit h3{font-size: 16px;}
+.planYourVisit_bus{width: 60px;}
+.pink-bg{height:auto;}
+.activity-box .content{padding: 15px 0 0 0;}
+.faq .nav-tabs li a{font-size: 14px;}
+.planYourVisit .left-part, .planYourVisit .right-part{-webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100% !important;}
+.memorial-map iframe{height: 350px;}
+.muralsTab.resTab .tabNav li a { font-size: 17px;padding: 10px 15px; }	
+.event-tab ul li {flex-grow: 1;}
+.event-tab ul li .nav-link{padding: 15px 10px; font-size: 24px;}
+.event-tab .event-link{font-weight: bold; padding: 15px 40px; text-align: center; float: none;}
+.eventRecord .per-page .total-record{padding-right: 10px;}
+.eventTabWrap .event-link {float: none;margin-bottom: 20px; padding:0;}
+.event-tab ul { display: block; background-color:#f8f8f8; }
+.event-tab ul li { float:left; }
+.eventPad { padding: 30px 15px 15px 15px; }
+.event-tab ul li .nav-link { padding: 15px; border:0; border-right:1px solid #ebebeb }
+.event-tab ul li .active:after { display: none; }
+.footerRow .col-lg-8, .footerRow .col-lg-4 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; text-align:center;}	
+.indianLinks { text-align: center; margin-top:15px; margin-left:0; }
+.indianLinks li { width:auto;}
+.galleryItem .galleryTitle { min-height: 90px; }
+.footerLogoSlider .footerSliderArrow { display: block;}
+.footerLinks { margin: 0; }
+.garland-div{ border-right:none}
+.eventLarge { height: 281px; }
+.event-select:before { top: 5px; }
+.honourPhoto .imgHolder { min-height: 1px; }
+.homeGalleryItem { height:190px; }
+.homeGalleryItem .galleryTitle { font-size: 15px; }
+.eventItem .imgHolder{ height: 210px; }
+.galleryItem .imgHolder { height: 160px; }
+.galleryItem .fa {transform: translate(-50%, -50%) scale(1); -webkit-transform: translate(-50%, -50%) scale(1);}
+.galleryItem:before { display: none; }
+/*Souvenir Start*/
+.shoppingStore h6{font-size: 14px; line-height: 1.5; font-weight: 600;}
+.souvenir_bnr .leftBnr-part h1{font-size: 35px;}
+.souvenir_bnr .leftBnr-part h2{font-size: 20px;}
+.souvenir_bnr .leftBnr-part p{font-size: 15px; padding: 17px 0; line-height: 1.4; font-weight: normal;}
+.souvenirBanner .slide-bnr .bnr-content .freeShip{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .bnr-content .easyReturn{display: flex; align-items: center;}
+.shoppingStoreBox h1{font-size: 24px; margin-bottom: 7px; margin-top: 7px}
+.shoppingStoreBox .imgHolder {padding-top: 20px;}
+.shoppingBnr{background-position: center bottom; }
+.shppingContent{float: none; padding: 50px 0; width: 100%}
+.shppingContent h1{font-size: 2em;}
+.whatsNew{padding-top: 20px; background-position: center top; background-size: auto;}
+.whatsNew .store_box{min-height: 350px;}
+.shopingDetails .detailBox{margin: 10px 0; min-height: 255px;}
+.shopingDetails .detailBox .red-text{padding-top: 10px;}
+.shoppingStoreBox h3, .TopSellingPart h3, .whatsNew h4 { font-size:19px; }
+.shopingDetails h2 { font-size: 20px; }
+.shppingContent { text-align:center; }
+.shopingDetails h2 { font-size: 18px; }
+.shopingDetails .detailBox p { font-size:14px; }
+.exploreMurals .muralsItem p {min-height:113px;}
+.documentList .documentItem:hover { padding-left: 0; background:none; }
+.honorsSearchWrap {margin-top: -160px;}
+.honorsSearch.active .honorsSearchHandel, .honorsSearch .honorsSearchHandel, .honorsSearch .colleps { display: none !important; }
+.donateWrap .volunteerForm { padding: 15px; }
+.productDetail { margin-top:0; padding-top: 0; }
+.productImgSlider, .gallery-thumbs {height: 342px;}
+.productDetail .slider__image { text-align:center; }
+.productDetail .slider__image img { width:60%; margin: 0 auto; }
+.productDetail .productImgSlider .swiper-slide .slider__image { padding:20px 10px; }
+.swiper-gallery-top{padding-left: 15px;padding-right: 0;}
+.productRightDetail h2, .productRightDetail .productPriceLarge {font-size: 1.4em;}
+.productRightDetail .shortDes { font-size:14px;}
+.productRightDetail .productPriceLarge .oldPrice, .productRightDetail .productPriceLarge .discount { font-size:16px; }
+.easyzoom-flyout { display:none !important;}
+.easyzoom.is-ready img{cursor: default;}
+.language .customSelect { width:110px; }
+.feedbackData tr th:first-child, .feedbackData tr td:first-child { width:15%; }
+.feedbackData tr th:nth-child(2), .feedbackData tr td:nth-child(2) { width:17%; }
+.feedbackData tr th:nth-child(3), .feedbackData tr td:nth-child(3) { width:15%; }
+.feedbackData tr th:nth-child(4), .feedbackData tr td:nth-child(4) { width:15%; }
+.footerLogos:before { margin-right: 185px;}
+.footerRow { padding: 15px 0; }
+.footerLinks { margin: 0 0 10px 0; text-align:center; }
+.footerLinks li.moveInBottom { display: inline-block; }
+.footerLinks li {padding-right: 10px;}
+.urClass .footerLinks li { padding-left:10px; }
+.urClass .footerLinks li:not(:last-child):before {left: 3px;}
+.ksClass .footerLinks li { padding-left:10px; }
+.ksClass .footerLinks li:not(:last-child):before {left: 3px;}
+.footerRow .selectWebsite { margin: 0 auto; max-width: 300px; width: 100%; }
+.footerLinks li:not(:last-child):before {right: 3px;}
+.footerRow .col-lg-9, .footerRow .col-lg-3 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.indianLinks li { padding: 0 20px;}
+.indianLinks li:before {left: -6px;}
+.headerCart {margin-left: 10px;right: 55px;}
+.urClass .headerCart {margin-right: 10px;left: 55px; right:auto; margin-left:0;}
+.urClass .userBtnLinkWrap { margin-right:0; margin-left:55px;}
+.ksClass .headerCart {margin-right: 10px;left: 55px; right:auto; margin-left:0;}
+.ksClass .userBtnLinkWrap { margin-right:0; margin-left:55px;}
+.productList .memoriesItem .productCard .memoriesTitle, .memoriesItem:hover .productCard .memoriesTitle {transform: translateY(0);    -webkit-transform: translateY(0);}
+.productList .memoriesItem .productCard .memoriesTitle a, .productList .memoriesItem:hover .productCard .memoriesTitle a {color: #8d2c2b;}
+.productList .memoriesItem .productCard .memoriesPrice, .productList .memoriesItem:hover .productCard .memoriesPrice { transform: translateY(0);   -webkit-transform: translateY(0);}
+.productList .memoriesItem .text-center {position:static;visibility: visible; padding: 0;opacity: 1;}
+.productList .memoriesItem:before { display: none; }
+.productList .memoriesItem .productCard { padding: 15px 0 0 0; }
+.productList .memoriesItem .productCard .memoriesTitle, .productList .memoriesItem .productCard .memoriesPrice { margin-bottom: 10px; }
+.productList .memoriesItem .addToCart:hover {color: #fff;background-color: #b08b29;}
+.productList .memoriesItem:hover .productCard .memoriesTitle {transform: translateY(0);-webkit-transform: translateY(0);}
+.productList .memoriesItem .productCard .memoriesPrice {font-size: 21px; }
+.productList .memoriesItem .productCard .memoriesPrice .fa {vertical-align: middle;font-size: 19px;}
+.userDashboardList li { -ms-flex: 0 0 33%;flex: 0 0 33%;max-width: 33%; }
+.hiClass .nwmImpLinks .impLinkBlock .titleText, .hiClass .siteImpLinks .impLinkBlock .titleText { font-size: 16px; }
+.answerList li { width: 33.333%; margin-bottom: 10px; }
+.urClass .bookVisitLink {margin-left: 50px;margin-right: 0;}
+.urClass .topStrip li:first-child{padding-left: 4px;}
+.ksClass .bookVisitLink {margin-left: 50px;margin-right: 0;}
+.ksClass .topStrip li:first-child{padding-left: 4px;}
+.homeage-donate { padding-bottom: 20px; }
+.competitionItem .imgHolder { height: 200px; }
+.live-feed-list {max-height: 922px;}
+.pnClass .brdStyle.resTab .tabNav li a { font-size: 15px; }
+.khClass .activitiesnwm .largeBox .wreathWould { padding-top: 20px; }
+/*.activitiesnwm .whiteBox { min-height: 492px; }*/
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 165px; }
+.memoriesItem .productCard .memoriesTitle, .productList .memoriesItem .productCard .memoriesTitle { min-height: 72px; }
+.whatsNew .topselling_product .imgHolder { height:250px; }
+.notification {right: 55px;}
+.download-app  { height:auto !important;}
+.formBlock:before { width: 300px; }
+.formBlock { padding-right: 335px; }
+.muralItem.warDepictions h2 { min-height: 43px; }
+.honourResualtWrap .dataTables_length, .honourResualtWrap.grid .dataTables_length {width: 100%;left: auto;right: auto;text-align: center;padding: 0;	bottom: 55px;}
+.donateMartyrWrap { padding-top: 20px; margin-top: 0; border-top: 0;}
+.donateMartyrWrap .neverForgotten { padding-bottom:0;}
+.homeMemories .memoriesItem { padding: 10px; }
+.homeMemories .memoriesItem .text-center { padding: 0 10px; }
+.homeMemories .memoriesItem .addToCart { padding-left:5px; padding-right:5px; }
+.sendOtpField .button { padding-left: 2px; padding-right: 2px; }
+.khClass .planYourVisit_footfall, .grClass .planYourVisit_footfall {width: 40px;}
+.khClass .homeMedia .resTab .tabNav li a { font-size: 19px; }
+.khClass .muralsTab.resTab .tabNav li { width:auto;}
+.bottomFilter .bottomFilterLeft, .bottomFilter .bottomFilterRight {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; text-align:center;}
+.bottomFilter .bottomFilterLeft .per-page .total-record { float:none; padding:0; }
+.bottomFilter .bottomFilterLeft .record-perPage { position:static; border:0;margin-top: 15px; padding-left:0;}
+.bottomFilter .bottomFilterLeft .record-perPage label { padding:0;}
+.bottomFilter .bottomFilterRight .event-pagination { float:none; text-align:center; }
+.bottomFilter .bottomFilterRight .pagination { display:block; }
+.bottomFilter .bottomFilterRight .pagination li { display:inline-block; vertical-align:middle; }
+.ngClass .neverForgotten h2 { margin-top: 0; }
+.ngClass .homeMedia .resTab .tabNav li a {font-size: 20px; padding:15px 10px;}
+.ngClass .faq .nav-tabs li a span { display:none;}
+.ngClass .faq .nav-tabs li a { min-height:70px; }
+.ngClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 103px;}
+.tlClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 107px;font-size: 15px;}
+.mlClass .eventSmall .eventShortDetail { font-size: 14px; }
+.mlClass .neverForgotten { padding-bottom:230px;}
+.mlClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 121px;}
+.aboutHexagon .button { width:100%; text-align:center; margin: 0 0 10px 0; display:block;}
+.aboutSignificance{background: #8d2c2b;}
+.aboutSignificance .col-md-6{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.mlClass .planYourVisit_footfall {width: 47px;}
+.checkoutPage { display:block; }
+.checkoutPage .checkoutLeft, .checkoutPage .checkoutRight{max-width: 100%;}
+.checkoutPage .checkoutLeft{ margin-bottom:40px;}
+.grClass .brdStyle.faqsTabs .tabNav li a { min-height: 80px; }
+.mzClass .brdStyle.faqsTabs .tabNav li a { font-size: 15px; }
+.tmClass .brdStyle.faqsTabs .tabNav li a { min-height: 80px; }
+.honourResualtWrap .rollHonourResualt  tfoot tr td { display:block; width:100% !important; text-align:center !important;}
+.honourResualtWrap .rollHonourResualt tfoot td .totaltitle { margin-top:0;}
+.honourResualtWrap .rollHonourResualt tfoot td .totaltitle .float-left { float:none !important; display:inline-block; vertical-align: middle; }
+.honourResualtWrap .rollHonourResualt tfoot td .float-right{ float:none !important;}
+.honourResualtWrap .rollHonourResualt tfoot td ul.paging li { float:none; }
+.rollHonourResualtOut { overflow-y:auto; padding-bottom:15px; }
+.rollHonourResualtOut table { width:1100px; max-width:1100px; }
+.tableFilter { display:block;}
+.tableFilter .col-lg-4, .tableFilter .col-lg-8 { max-width:100%;}
+.tableFilter .totaltitle { text-align: center; }
+.tableFilter .paging { float:none !important; text-align:center;}
+.tableFilter ul.paging  { margin:20px 0 0 0;}
+.tableFilter ul.paging li {display: inline-block;vertical-align: middle; float:none;}
+.searchHonour.eventSearch .event-select label.pr-2 { width:70px; text-align:right; }
+.homeage-left-section { padding: 20px; }
+.pay-homeage-img { width:40%;}
+.facilitynwmList li:before { display:none !important;}
+
+/*Responsive Table*/
+.feedbackResTable, .feedbackResTable tr, .feedbackResTable td, .feedbackResTable td:before { display:block; text-align:left; border:none;	 }
+.feedbackResTable, .feedbackResTable tr, .feedbackResTable td:last-child { border-bottom:none; }
+.feedbackResTable thead, .feedbackResTable tr th { position:absolute;	 top:-1000em; left:-1000em; }
+.feedbackResTable tr { border:1px solid #eeeeee; border-bottom:2px solid #eeeeee;  margin:0 0 20px; }
+.feedbackResTable tr td:nth-child(1) {  border-left:none;}
+.feedbackResTable tr td:last-child {  border-right:none; }
+.feedbackResTable tr:last-child .td, .feedbackResTable td { border-bottom:1px solid #eeeeee; }
+.feedbackResTable td:before {font-weight:600; font-size:14px; padding-right:20px; line-height:27px; color:#8d2c2b; content:" "attr(data-label)"";	}
+.feedbackResTable tbody {display:block;}
+.feedbackResTable tr td {padding:5px 15px; width:auto !important;}
+.wob .feedbackResTable td:before { color:#fff; }
+.feedbackDataWrap {box-shadow: 0 0 0 rgba(0, 0, 0, 0);}
+.ksClass .feedbackResTable td:before, .urClass .feedbackResTable td:before { text-align: right; padding-right:0;}
+.ngClass .brdStyle.faqsTabs .tabNav li a {min-height:100px; }
+.innerBannerWrap .bannerImg { height: 182px; }
+.muralDataListWrap .muralItem .imgHolder { height: 200px; }
+.tlClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 130px;}
+.bustWrap { height: 310px; }
+.tourItem .imgHolder { height: 175px; }
+.footerLogos .subscribeNewslettersForm .form-control-wrap .scaptcha .form-control { width: 110px !important; }
+.honorsSearch { margin-right:0;}
+
+.mobileAppFeaturesWrap ul li{width:33.33%;}	
+.downloadMobileAppWrap .mobileAppBox{padding:30px 0;}
+.downloadMobileAppWrap .mobileAppBox .row .imgPosition {position: absolute;	top: 15px;	bottom: -80px;right: 0;}
+.mobileAppFeaturesWrap {padding-top:25px;}
+}
+@media only screen and (max-width: 992px){
+.topStrip .hide-in-ipad { display: none; }
+.topStrip .rightLinks li:last-child { padding: 0; }
+.topStrip .rightLinks li:last-child:before { display: none; }
+.headerRow .col-md-4{-ms-flex: 0 0 44.333333%;flex: 0 0 44.333333%;max-width: 44.333333%;}
+.headerRow .col-md-8 {-ms-flex: 0 0 55.666667%;flex: 0 0 55.666667%;max-width: 55.666667%;}
+.honorsSearch h1 br { display: none; }
+.neverForgotten h2, .upcomingEvents h2, .downloadHomeApp h2, .homeMemories h2, .honorsSearch h1 { font-size: 22px; }
+.mlClass .neverForgotten h2, .mlClass .upcomingEvents h2, .mlClass .downloadHomeApp h2, .mlClass .homeMemories h2, .mlClass .honorsSearch h1, .tmClass .neverForgotten h2, .tmClass .upcomingEvents h2, .tmClass .downloadHomeApp h2, .tmClass .homeMemories h2, .tmClass .honorsSearch h1 { font-size: 19px; }
+.honorsSearch { padding: 10px; max-width:320px; }
+.honorsSearchForm input[type="text"], .honorsSearchForm select { height: 35px; }
+.neverForgotten h2 { margin-top: 20px; }
+.neverForgotten p { margin-bottom: 20px; }
+.nwmImpLinks .container, .siteImpLinks .container, .homeMemories .row { display: none; }
+.nwmImpLinksSlider, .siteImpLinksSlider, .homeMemoriesSlider { display: block; }
+.nwmImpLinksSlider .swiper-container, .siteImpLinksSlider .swiper-container, .homeMemoriesSlider .swiper-container { padding: 0 50px; }
+.nwmImpLinks .impLinkBlock, .siteImpLinks .impLinkBlock {background-color: #8c7021;box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);}
+.nwmImpLinks .impLinkBlock:hover .icon, .siteImpLinks .impLinkBlock:hover .icon {transform: translateY(0); -webkit-transform: translateY(0);}
+.nwmImpLinks .impLinkBlock:hover .titleText, .siteImpLinks .impLinkBlock:hover .titleText{transform: translateY(0);-webkit-transform: translateY(0);}
+.nwmImpLinks, .homeMedia, .downloadHomeApp, .siteImpLinks, .homeMemories { padding: 30px 0; }
+.neverForgotten { padding-top: 30px; }
+.upcomingEvents { padding-bottom: 30px; }
+.upcomingEvents .homeEvents { margin-top: -150px; }
+.neverForgotten .imgHolder p { bottom: 20px; }
+.downloadHomeApp { text-align: center; }
+.downloadHomeApp .appImgHolder {margin-bottom: 20px;text-align: center;border-bottom: 1px solid #ccc; bottom: auto !important;}
+.yourVisit li, .yourVisit li:first-child { padding: 0 10px;}
+.homeMedia .resTab .tabNav li a { font-size: 19px; padding: 12px 5px; }
+.homeGalleryItem { height: 138px; }
+.homeGalleryItem .galleryTitle { padding: 10px; }
+.homeGalleryItem .galleryTitle {bottom: 0; font-size: 14px; line-height:1.2}
+.homeGalleryItem .fa { margin-top: -30px; }
+.homeGalleryItem .fa { transform: translate(-50%, -50%) scale(1);-webkit-transform: translate(-50%, -50%) scale(1); width:40px; height: 40px; line-height:40px; font-size: 17px;}
+.homeGalleryItem .imgHolder:before {visibility: visible;opacity: 1;}
+.homeGalleryItemWrap:before { display: none; }
+.homeGalleryItem:hover .imgHolder img {transform: scale(1);-webkit-transform: scale(1);}
+.memoriesItem .productCard .memoriesTitle, .memoriesItem:hover .productCard .memoriesTitle {transform: translateY(0);    -webkit-transform: translateY(0);}
+.memoriesItem .productCard .memoriesTitle a, .memoriesItem:hover .productCard .memoriesTitle a {color: #8d2c2b;}
+.memoriesItem .productCard .memoriesPrice, .memoriesItem:hover .productCard .memoriesPrice { transform: translateY(0);   -webkit-transform: translateY(0);}
+.memoriesItem .text-center {position:static;visibility: visible; padding: 0;opacity: 1;}
+.memoriesItem:before { display: none; }
+.memoriesItem .productCard { padding: 15px 0 0 0; }
+.memoriesItem .productCard .memoriesTitle, .memoriesItem .productCard .memoriesPrice { margin-bottom: 10px; }
+.memoriesItem .addToCart:hover {color: #fff;background-color: #b08b29;}
+.copyright, .socialLinks { text-align: center !important; }
+#backtotop {bottom: 90px;}
+*[data-paroller-factor] { transform: none !important; }
+.eventLarge, .eventSmall { margin-bottom: 20px; }
+.homeBanner .homeSliderArrow:hover{background: rgba(141, 44, 43, 0.8);}
+.footerLogoSlider .footerSliderArrow:hover {background: #fff;border-color: #454545;color: #454545;}
+.volunteerForm .selectDays { padding: 15px; }
+.volunteerForm .selectDays li { padding: 0 13px; }
+.volunteerForm .selectDays li:not(:last-child):before { top: 0; bottom: 0; }
+.volunteerFormWrap {padding: 20px;}
+.selectService .custom-control-label span { padding: 0 10px; font-size:15px; }
+.selectService .checkboxWrap { min-height: 150px; }
+.pageTitle h1 {font-size: 25px;}
+.formGrayBlock { margin-bottom: 25px !important; }
+.commonPad, #main, .honourFilter, .honourData { padding-bottom:30px; padding-top:30px;}
+.padBotNone { padding-bottom: 0; }
+.padTopNone { padding-top: 0; }
+.lastSection { margin-bottom:-30px;}
+.firstSection { margin-top:-30px;}
+.exploreMap h1 {font-size: 1.5em;}
+.exploreMap h1 span {font-size: 0.550em;}
+.timeline-content .timeline-number span { width: 50px; height: 50px;line-height: 50px;font-size: 25px; }
+.timeline-content .timeline-number { right: -25px; }
+.timeline-content .timeline-number:before { left: -7px;margin-top: -12px;}
+.timeline-content .rightContent { padding-left: 20px; }
+.timeline-content .rightContent h2 { padding-right: 35px;padding-bottom: 15px; margin-bottom: 15px; }
+.timeline-content .rightContent h2 { font-size: 16px; }
+.timeline-nodes:nth-child(2n+1) .timeline-content .timeline-number {left: -25px;}
+.timeline-nodes:nth-child(2n+1) .timeline-content .timeline-number:before { right:-7px; }
+/*.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent h2 { padding-left: 45px; }
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent .knowMore { margin-left: 45px; }*/
+.timeline-content .rightContent .knowMore { font-size: 15px; }
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent { padding-right: 20px; }
+.nwmMapTimeline:before { width: 440px; }
+nav.breadcrumb { padding: 10px 0; }
+ul.breadcrumb li { font-size: 14px; }
+.paramVirChakra .largeFont br { display: none; }
+h2 { font-size: 1.6em;}
+h3, h3.smallTitle, h2.smallTitle { font-size: 1.3em;}
+h4.smallTitle {font-size: 1.025em;}
+.muralsItem, .exploreYoddhaItem { margin-bottom: 30px; }
+.muralItem p { min-height: 1px;}
+.muralItem { padding: 40px; padding-bottom:85px; }
+.muralItem .button {left: 40px;bottom: 40px;}
+.muralItem h2 {font-size: 20px;}
+.searchHonour .form-group { margin-bottom: 15px; }
+.searchHonour .button {bottom: 15px;}
+.muralsDetail .titleHeader h2 .smallTitle { font-size: 17px; }
+.rollHonourResualt tr:hover td a {color: #313131; font-weight:400; }
+.mediumFont { font-size: 15px; }
+.aboutMemorial .whiteBox { padding: 15px; }
+.brdStyle.resTab .tabNav li a { font-size:15px; padding: 8px 1px; font-weight:600; }
+.aboutMemorial .col-md-3.col-sm-4 { text-align: center; }
+.urClass .aboutHexagonList li{float:none; width:auto;}
+.ksClass .aboutHexagonList li{float:none; width:auto;}
+.aboutHexagonList li { padding: 14px 30px 14px 40px; float:none; width:auto;}
+.aboutHexagonList li:before { top: 13px; }
+.aboutHexagonList li:nth-child(5) { border-bottom-width: 1px; }
+
+.aboutHexagonList { margin-bottom: 15px !important; }
+.aboutSignificance { background:#8d2c2b; }
+.aboutSignificance .col-md-6 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.highlightsnwmItem { padding: 8px; }
+.highlightsnwmItem h3 { font-size: 16px; }
+.activitiesnwm .whiteBox { padding: 15px;/*min-height: 490px;*/ }
+
+.faqRow .fQuestion p { font-size: 1em; }
+.remarkSmg h2 {font-size: 20px;}
+.remarkSmg h3, .remarkSmg h4, .remarkSmg p {font-size: 16px;}
+.exploreYoddhaItem .bottomCard { padding: 15px; }
+.honourDetailCat li { width: 33.333%; padding:5px; }
+.honourDetailCat { margin: 0 -5px; }
+.honourPhoto .imgHolder { padding: 10px; }
+.donateMartyrWrap { padding-top: 0; margin-top: 0; }
+.donateMartyrWrap.homeage-donate { padding-top: 20px; }
+.donateMartyr { text-align: center; }
+.donateMartyr .col-lg-6:last-child { padding-top:20px; padding-left:0; border:0;}
+.backLink, .labelBtn { font-size: 16px; }
+.homeMemoriesSlider { margin: 0 -15px; }
+.planYourVisit .timings .timetable{display: flex; justify-content: space-between; width: 100%;}
+.planYourVisit h6{font-size: 14px;}
+.planYourVisit h3{font-size: 20px;}
+.planYourVisit_bus{width: 60px;}
+.pink-bg{height:auto;}
+.activity-box{padding: 10px; margin-bottom:15px; margin-top:15px; /*margin: 15px ​0;*/}
+.activity-box .content{padding: 15px 0 0 0; font-size: 16px;}
+.activity-box .btn-primary{font-size: 14px; padding: 9px 17px;}
+.faq .nav-tabs li a{font-size: 14px;}
+.memorial-map iframe{height: 350px;}
+.planYourVisit .timings{padding-right: 0px}
+.contactDetail p { font-size: 16px; }	
+.muralsTab.resTab .tabNav li a { font-size: 19px; padding: 10px 50px; }	
+.eventPad{padding: 15px;}
+.event-tab ul li .nav-link{padding: 10px 20px; font-size: 20px;}
+.event-tab .event-link{font-weight: bold; padding: 15px 40px; text-align: center; float: none;}
+.eventRecord .per-page .total-record{padding-right: 10px;}
+.eventRecord .record-perPage{right: 0; left: auto; border: 0; }
+.urClass .eventRecord .record-perPage {left: 0;right: auto;border: 0;float: none; padding-left: 0;}
+.urClass .event-pagination {float: none;margin-top: 10px;}
+.ksClass .eventRecord .record-perPage {left: 0;right: auto;border: 0;float: none; padding-left: 0;}
+.ksClass .event-pagination {float: none;margin-top: 10px;}
+.event-pagination {float: none; justify-content: center; }
+.eventPad .row .col-md-4 { -webkit-box-flex: 0; -ms-flex: 0 0 50%; flex: 0 0 50%; max-width: 50%;}
+.searchHonour.eventSearch { margin-bottom: 20px; }
+.eventData p { font-size: 16px; }
+.honorsSearchForm .form-group { margin-bottom: 3px; }
+.honorsSearchForm .formField.mb-0.mt-3 { margin-top:10px !important; }
+.homeMedia .resTab .tabNav li { width: 33.333%; }
+.eventLarge { height: auto; }
+.hdCatItem { padding: 15px 5px 0 5px; }
+.eventItem .imgHolder{ height: 225px; }
+.galleryItem .imgHolder { height: 185px; }
+
+/*Product Details Start*/
+.product-image-thumb:last-child{margin-bottom: 15px;}
+.productDetail .quantity-number{padding-right: 0px;}
+.productDetail .shipping-block{padding-left: 20px;border-left: 0; position: relative;top: -6px; }
+.productDetail .shipping-text{width: 100%;}
+.productDetail .add-cart-btn{padding: 12px 5px;}
+/*Product Details End*/
+/*Souvenir Start*/
+.shoppingStore h6{font-size: 16px; line-height: 1.5; font-weight: 600;}
+.souvenir_bnr .leftBnr-part h1{font-size: 35px;}
+.souvenir_bnr .leftBnr-part h2{font-size: 20px;}
+.souvenir_bnr .leftBnr-part p{font-size: 15px; padding: 17px 0; line-height: 1.4; font-weight: normal;}
+.souvenirBanner .slide-bnr{position: relative;}
+.souvenirBanner .slide-bnr .bnr-content .freeShip{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .bnr-content .easyReturn{display: flex; align-items: center;}
+.shoppingStoreBox h1{font-size: 24px; margin-bottom: 7px; margin-top: 7px}
+.shoppingStoreBox .imgHolder {padding-top: 0;}
+.shoppingBnr{background-position: center top; background-size: auto;}
+.shppingContent{float: none; padding: 40px 0; width: 100%}
+.shppingContent h1{font-size: 2em;}
+.whatsNew .store_box{min-height: 350px;}
+.shopingDetails .detailBox{margin: 10px 0;}
+.shopingDetails .detailBox .col-sm-5{}
+.shopingDetails .detailBox .red-text{padding-top: 10px;}
+.ribbon-top-right { top: -4px;right: 10px;}
+.productBook{-webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.offlineStore{-webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.shoppingStoreBox .row .col-md-7 { -ms-flex-order: 1;order: 1; }
+.shoppingStoreBox .row .col-md-5 { -ms-flex-order: 2;order: 2; }
+.shoppingStoreBox h3, .TopSellingPart h3, .whatsNew h4 { font-size:19px; }
+.shopingDetails {padding-top: 5px;padding-bottom: 0;}
+.shopingDetails .detailBox .imgHolder img { width: 100%; }
+.ebookItem { margin-bottom: 15px; }
+.ebookItem .imgHolder img { width: 100%; }
+/*Souvenir End*/
+.honorsSearchWrap {margin-top: -136px;}
+.honorsSearch h1, .honorsSearch.active h1 { font-size: 21px; }
+.honorsSearch .colleps {right: 15px;top: 13px;}
+.honorsSearch .honorsSearchHandel {width: 40px;height: 56px;line-height: 56px;font-size: 19px;}
+.donateWrap { background:#fff; }
+.donateWrap .volunteerForm { float:none; width:auto;}
+.productImgSlider { width:482px; margin-bottom:20px; }
+.feedbackDataOut { overflow-y:auto; padding-bottom:15px; }
+.feedbackDataOut table { width:1100px; max-width:1100px; }
+.footerLogos:before {margin-right: 137px;}
+.splashModal .modal-content p {font-size: 18px;}
+.splashModal .modal-dialog {max-width: 720px;}
+.detailTitle {font-size: 19px;}
+.billingDetailsForm, .checkoutOrderWrap, .checkoutAddress { margin-bottom: 15px; }
+.orderTable { margin-bottom: 0; }
+.aboutMemorial .brdStyle.resTab .tabNav li a { min-height:65px; }
+.panoramaBoxDiv {height:400px; }
+.userDashboardList .userDasItem .titleText { font-size: 18px;/*min-height: 54px;*/ }
+
+.surveyOptions li { margin-bottom:8px; width:49%;}
+.quickSurveyModal .pollResponses li { width:50%;}
+.planYourVisit .timings .timetable h2 { font-size:1.5em;}
+.resTab.muralsTab .tabNav li { float:left; width:33.333%;}
+.muralsTab.resTab .tabNav li a {font-size: 17px;padding: 10px 5px; min-height:72px;}
+.topStrip .rightLinks li:before { display:none;}
+.topStrip .search { border-left: 1px solid #ccc; }
+.urClass .topStrip .search {border-left: 0;border-right: 1px solid #ccc;}
+.ksClass .topStrip .search {border-left: 0;border-right: 1px solid #ccc;}
+.sendOtpField .col-md-4 {-ms-flex: 0 0 70%;flex: 0 0 70%;max-width: 70%;-webkit-box-flex: 0;}
+.sendOtpField .col-lg-2 {-ms-flex: 0 0 30%;flex: 0 0 30%;max-width: 30%;-webkit-box-flex: 0;}
+.muralItem.warDepictions h2 { min-height: 1px; }
+.yourVisit .icon {margin: 0 auto 10px auto;}
+.yourVisit li { text-align: center; }
+.urClass .copyright .text-right {text-align: center !important;}
+.ksClass .copyright .text-right {text-align: center !important;}
+.muralsItem h3 a { font-size: 16px; }
+.urClass .donateMartyr .col-lg-6:last-child { padding-right:0;}
+.ksClass .donateMartyr .col-lg-6:last-child { padding-right:0;}
+.hiClass .sendOtpField .button { font-size: 12px; }
+.hdCatItem p .darkText, .hdCatItem p { font-size: 14px; }
+.homeage-right-section { margin-top: 15px; }
+.live-feed-list{max-height: 497px;}
+.facilitynwmList .facilitynwmItem { padding-left:2px; padding-right: 2px; }
+.pnClass .brdStyle.resTab .tabNav li a { font-size: 12px; }
+.aboutHexagon .button { padding-left:10px; padding-right: 10px; }
+/*.khClass .activitiesnwm .whiteBox { min-height: 600px; }*/
+.footerLogos .subscribeNewslettersForm label { color: #fff; }
+.footerLogos .subscribe { border-width:0;}
+.footerLogos:before { display:none; }
+.footerLogos { padding: 15px 0; }
+.footerLogos .subscribeNewslettersForm { padding:20px 15px;background-color: #8d2c2b; margin:-15px -15px 15px -15px; }
+.footerLogos .col-md-4, .footerLogos .col-md-8, .mlClass .footerLogos .col-md-4, .mlClass .footerLogos .col-md-8, .tlClass .footerLogos .col-md-4, .tlClass .footerLogos .col-md-8{-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 250px; }
+.whatsNew .topselling_product .imgHolder { height:285px; }
+.urClass .pollBox .expire .poll { display:none; }
+.urClass .footerLogos .subscribe { border-width:0;}
+.urClass .footerLogos .subscribeNewslettersForm { padding-right:20px; }
+.ksClass .pollBox .expire .poll { display:none; }
+.ksClass .footerLogos .subscribe { border-width:0;}
+.ksClass .footerLogos .subscribeNewslettersForm { padding-right:20px; }
+.aboutMemorial .whiteBox.mb-4 { margin-bottom: 30px !important;}
+.homeMediaBlock .resTab .tabContent .text-center.mt-4 { margin-top: 30px !important; }
+.mb-40 {margin-bottom: 30px;}
+.formBlock { padding: 25px; }
+.formBlock:before { display: none; }
+.quizFooter { margin-top: 0; }
+.mlClass .marqueeScrollingWrap, .mzClass .marqueeScrollingWrap {padding: 20px 145px 20px 170px;}
+.mlClass .marqueeScrollingWrap .btnMPause, .mzClass .marqueeScrollingWrap .btnMPause {left: 142px;}
+.muralDataList .col-lg-6{display: block;}
+.muralDataList .col-lg-6 .muralItem { width:100%;}
+.tmClass .muralItem h2 { width:100%; }
+.nwmImpLinksSlider .swiper-slide, .siteImpLinksSlider .swiper-slide {display: -webkit-box;display: -ms-flexbox;display: flex; height:auto;}
+.topStrip .row {-webkit-box-align: center !important;-ms-flex-align: center !important;align-items: center !important;-webkit-box-pack: justify !important;-ms-flex-pack: justify !important;justify-content: space-between !important;display: -webkit-box !important;display: -ms-flexbox !important;display: flex !important;-ms-flex-wrap: nowrap;flex-wrap: nowrap;}
+.topStrip .row .stripLeft { -ms-flex: 0 0 65%;flex: 0 0 65%;max-width: 65%;}
+.topStrip .row .stripRight {-ms-flex: 0 0 35%;flex: 0 0 35%;max-width: 35%;}
+.homeMemories .memoriesItem .text-center { padding: 0; }
+.activitiesnwm .largeBox .wreathWould { width:90%;}
+.grClass .downloadHomeApp .appImgHolder, .kdClass .downloadHomeApp .appImgHolder { bottom:auto; }
+.marqueeScrollingWrap { padding: 10px 0 !important; }
+.marqueeScrollingWrap h2 { position: static; }
+.marqueeScrolling { padding: 0; border:0; margin-top: 15px; }
+.marqueeScrollingWrap .viewAll { top: 10px; }
+.marqueeScrollingWrap .btnMPause {top: 44px !important;left: -5px !important; }
+.marqueeScrolling ul { margin-left:25px; }
+.grClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 85px;}
+.grClass .planYourVisit_footfall {width: 45px;}
+.khClass .homeMedia .resTab .tabNav li a { min-height: 90px; }
+.khClass .muralsTab.resTab .tabNav li { width:33.333%;}
+.khClass .planYourVisit_footfall {width: 49px;}
+.khClass .general-query span { margin: 0; }
+.ngClass .yourVisit li, .ngClass .yourVisit li:first-child { width: 50%; padding: 10px; border:0; }
+.ngClass .homeMediaBlock .resTab .tabNav, .ngClass .aboutMemorial .resTab .tabNav  { display:none;}
+.ngClass .homeMediaBlock .resTab .r-tabs-accordion-title, .ngClass .aboutMemorial .resTab .r-tabs-accordion-title { display: block; }
+.ngClass .aboutMemorial .resTab .r-tabs-accordion-title br { display:none;}
+.ngClass .topStrip .row {-ms-flex-wrap: wrap;flex-wrap: wrap;}
+.ngClass .topStrip .row .stripLeft {-ms-flex: 0 0 80%;flex: 0 0 80%;max-width: 80%;}
+.ngClass .topStrip .row .stripRight {-ms-flex: 0 0 20%;flex: 0 0 20%;max-width: 20%;}
+.language {position: relative;border-left: 1px solid #ccc;padding-left: 5px;}
+.khClass .faq .nav-tabs li a{font-size: 13px;}
+.mnClass .faq .nav-tabs li a { padding-left:0; padding-right:0;}
+.mnClass .faq .nav-tabs li a span { margin:0;}
+.mzClass .faq .nav-tabs li a span { display:none; }
+.mlClass .neverForgotten { padding-bottom:190px;}
+.aboutMemorial .whiteBox .text-justify.mb-0 { margin-bottom: 25px !important; }
+.mlClass .planYourVisit_footfall {width: 59px;}
+.loginFormWrap{padding-right: 0;min-height: 1px !important;}
+.loginFormWrap .loginInfo { position: static; width:100%; }
+.onlineQuizForm{min-height: 1px;}
+.viewCartTableData { width:100%; overflow-y:auto;}
+.viewCartTableData table { width:1000px; }
+.ksClass .language, .urClass .language {border-left: 0;border-right: 1px solid #ccc;padding-left: 0;padding-right: 5px;}
+.faqsTabs { margin-bottom:20px; }
+.faqsTabs .tabNav, .faqsTabs.resTab .r-tabs-accordion-title span { display:none;}
+.faqsTabs.resTab .r-tabs-accordion-title { display:block; font-size:19px;}
+.faqsTabs .accordion.faq-acc { margin-top:0 !important;margin-bottom: 0 !important; }
+.searchHonour.eventSearch .event-select label.pr-2 { text-align:left; }
+.kdClass .aboutMemorial .brdStyle.resTab .tabNav li a {min-height: 85px;}
+.mnClass .planYourVisit_footfall {width: 60px;}
+.ksClass .planYourVisit_footfall, .mzClass .planYourVisit_footfall {width: 50px;}
+.becomeAvolunteer .col-md-4 {-webkit-box-flex: 0;-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%;}
+.editProfile .col-md-6 {-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.ksClass .marqueeScrolling ul, .urClass .marqueeScrolling ul {margin-left: 0 !important;margin-right: 25px !important;}
+.ksClass .marqueeScrollingWrap .btnMPause, .urClass .marqueeScrollingWrap .btnMPause { right:0 !important; left:auto !important; top:48px !important;}
+.ksClass .marqueeScrollingWrap .viewAll, .urClass .marqueeScrollingWrap .viewAll { left: 0 !important; }
+.mrClass .aboutMemorial .brdStyle.resTab .tabNav li a, .mnClass .aboutMemorial .brdStyle.resTab .tabNav li a, .knClass .aboutMemorial .brdStyle.resTab .tabNav li a  {min-height: 85px;}
+.fedbackLang .col-md-6 {-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.fedbackLang #field-otp-mobile { margin-top: 0; }
+.innerBannerWrap .bannerImg { height: 136px; }
+.muralDataListWrap .muralItem .imgHolder { height: auto; }
+.quizAnswerList {max-height: inherit; overflow: hidden; overflow-y: hidden;}
+.bustWrap { height: 240px; }
+/*******Donate Info*******/
+.donateInfo .rightBrd { margin-right:0;}
+.col-lg-8 .donateInfo { margin-bottom: 15px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);}
+.donateRightBrd {border-right: 0;margin-right: 0;}
+.footerLogos .subscribe .scaptcha .scaptcha-s { color:#fff; }
+.footerLogos .subscribe .scaptchamain .form-group { margin-bottom:0;}
+.footerLogos .subscribeNewslettersForm .form-control-wrap .button{ background: #8c7021;}
+}
+@media only screen and (max-width: 767px){
+.homeGalleryItemWrap { margin-top: 30px; }
+.homeMediaBlock #tab-1 .text-right { margin-bottom: 0; }
+.upcomingEvents .homeEvents { margin-top: 0; }
+.upcomingEvents, .neverForgotten { padding: 30px 0; }
+.neverForgotten { text-align: center; }
+.neverForgotten h2 br { display: none; }
+.neverForgotten .imgHolder {position: relative; max-width: 300px; width: 100%;margin: 0 auto;}
+.neverForgotten .imgHolder p {bottom: 10px;}
+.honorsSearchWrap { position: static;transform: translateY(0); -webkit-transform: translateY(0); background-color:#f6f6f6; padding: 30px 0; }
+.honorsSearch { margin: 0; float:none; max-width:100%; background:none; padding:0; }
+.honorsSearchForm input[type="text"], .honorsSearchForm select {height: 45px;}
+.homeSlider { position: relative; }
+#navMob li > a {font-size: 22px; padding:10px 50px 10px 0;line-height: 30px; margin-left:20px;}
+#navMob li .menuIcon, #navMob li li .menuIcon { width: 50px; line-height: 50px; font-size:25px; }
+.mobileNav .menuClose { width: 50px; height: 50px; background-position:-6px -324px; }
+.mobileNav #navMob { margin-top: 50px;}
+.mobileNav .navigationText { left: 20px; }
+#navMob li ul li a { padding:7px 50px 7px 20px; font-size: 17px; }
+#navMob li ul li a:before { left: 10px; top: 7px; }
+#navMob li ul li ul li a { padding-left: 28px; }
+.neverForgotten h2, .upcomingEvents h2, .downloadHomeApp h2, .homeMemories h2, .honorsSearch h1 {font-size: 18px;}
+.mlClass .neverForgotten h2, .mlClass .upcomingEvents h2, .mlClass .downloadHomeApp h2, .mlClass .homeMemories h2, .mlClass .honorsSearch h1, .tmClass .neverForgotten h2, .tmClass .upcomingEvents h2, .tmClass .downloadHomeApp h2, .tmClass .homeMemories h2, .tmClass .honorsSearch h1 { font-size: 16px; }
+.neverForgotten p {margin-bottom: 25px;}
+.viewEventCalendar { padding: 7px 14px; font-size:14px;}
+.upcomingEvents .homeEvents, .homeMediaBlock { padding: 15px; }
+.eventSmall .eventTitle a, .eventLarge .bottomCard .eventTitle { font-size: 16px; }
+.eventSmall .eventTitle { margin-bottom: 7px; }
+.homeMedia .resTab .tabNav li a { font-size: 17px; }
+.memoriesItem .productCard .memoriesPrice { font-size: 22px;}
+.memoriesItem .productCard .memoriesPrice .fa { font-size: 20px;}
+.memoriesItem .productCard .memoriesTitle a { font-size: 15px;}
+.topStrip a { line-height: 35px; }
+.search {right: 10px;top: -49px; position:absolute;}
+.search a { width: 35px; height: 35px;font-size: 19px;line-height: 37px; color:#8d2c2b; background:none; }
+.search a:hover{color:#8d2c2b; background:none;}
+.search a.active {background: #b08b29;color: #fff;}
+.search .form-wrapper { top: 47px; }
+.search .form-wrapper:before { right: 7px; }
+.topStrip ul { padding: 0 40px 0 0; }
+.urClass .topStrip ul { padding: 0 0 0 40px; }
+.ksClass .topStrip ul { padding: 0 0 0 40px; }
+.topStrip .col-md-7, .topStrip ul.rightLinks { padding: 0; height:0; }
+
+.toggleMenu { width: 40px; padding:6px;}
+.toggleMenu .iconBar:nth-child(2) {margin: 7px 0;}
+.bookVisitLink { margin-right: 50px; font-size: 15px;}
+.userBtnLinkWrap { margin-right:50px; margin-left:0; }
+#navbar-brand { width: 300px; }
+.commonPad, #main { padding-bottom:30px; padding-top:30px;}
+.padBotNone { padding-bottom: 0; }
+.padTopNone { padding-top: 0; }
+.lastSection { margin-bottom:-30px;}
+.firstSection { margin-top:-30px;}
+.becomeAvolunteer { background-color:#fff; }
+.volunteerFormWrap { padding: 0; box-shadow: 0 0 0 rgba(0, 0, 0, 0); }
+.formGrayBlock { padding: 15px; }
+.selectService li { width: 33.333%; margin-bottom: 16px; }
+.volunteerForm .selectDays li { padding: 0 9px; }
+.nwmMapTimeline .fa-map-marker { font-size: 33px;left: 5px;margin-left: 0;}
+.nwmMapTimeline:before { display: none; }
+.nwmMapTimeline:after {left: 13px;margin-left: 0;top: 30px;width: 3px;}
+.timeline-content .row .col-md-6:first-child {-ms-flex-order: 2;order: 2;}
+.timeline-content .row .col-md-6:nth-child(2) {-ms-flex-order: 1;order: 1;}
+.timeline-nodes {margin-top: 20px;margin-left: 30px;}
+.timeline-content .timeline-number span {width: 35px;height: 35px;line-height: 35px; font-size: 16px;color: #fff;
+background-color: #a25641;}
+.timeline-content .timeline-number, .timeline-nodes:nth-child(2n+1) .timeline-content .timeline-number {right: auto;left: -34px;}
+.timeline-content .timeline-number:before, .timeline-nodes:nth-child(2n+1) .timeline-content .timeline-number:before, .timeline-content:hover .timeline-number:before, .timeline-nodes:nth-child(2n+1) .timeline-content:hover .timeline-number:before {margin-top: -12px;left: auto;right: -5px;transform: rotate(180deg); -webkit-transform: rotate(180deg);}
+.timeline-content .imgHolder { box-shadow: 0 0 15px rgba(0, 0, 0, 0.15); }
+.mapHexagon { margin-top: 0; }
+.nwmMapTimeline { padding-top: 20px; padding-bottom: 20px; }
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent h2 { padding-left: 0; margin-left: 20px;}
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent .knowMore {margin-left: 20px;}
+.paramVirChakra .imgHolder { text-align: center; margin-bottom: 15px; }
+.paramYoddhaDetail .imgHolder { max-width:300px; margin: 0 auto 15px auto; width:100%; padding: 10px; }
+h2 { font-size: 20px;}
+h3, h3.smallTitle, h2.smallTitle { font-size: 18px;}
+h4 { font-size: 17px;}
+h5, h6 { font-size: 16px;}
+h2, h3, h4, h5, h6 { margin-bottom: 15px; }
+.paramYoddhaPhoto h3 { font-size: 16px; }
+.paramYoddhaPhoto h3 .year { font-size: 15px;margin-bottom: 15px; }
+.audioClips h3 { font-size: 17px; }
+.audioClips {padding-top: 15px;margin-top: 0;}
+.breadcrumb { display: none; }
+.muralItem { padding: 15px; margin-bottom:15px; }
+.muralItem h2 {font-size: 18px;}
+.muralItem .button {font-weight: 400;display: block;text-align: center;width: 100%;padding: 13px 15px; font-size:14px;}
+.muralsDetail .imgHolder .fa { width:50px; height: 50px; line-height:50px; font-size: 25px; }
+.exploreYoddhaItem h3 a { font-size: 17px; }
+.exploreYoddhaItem h3 .smallText, .exploreYoddhaItem p, .exploreYoddhaItem .knowMore { font-size: 15px; }
+.searchHonour .button { position: static; height:38px; font-size: 16px; width:auto; padding: 8px 15px; margin-left:5px; }
+.searchHonour .button .fa { display: none; }
+.searchHonour .row { padding-right: 0; }
+.honourSrhResualt .titleHeader { display: block !important; margin-bottom:20px !important; }
+.honourSrhResualt .titleHeader form { text-align: right; }
+.honourSrhResualt .titleHeader .form-group .custom-select {width: 80px;}
+.honourSrhResualt .titleHeader .form-group .custom-select select.form-control {height: 35px; padding-left: 5px; font-size:14px;}
+.honourSrhResualt .titleHeader .form-group .custom-select:before { top: 2px; }
+.honourSrhResualt .titleHeader .form-group label { padding-right: 5px; }
+.honourSrhResualt .titleHeader .form-group label, .honourSrhResualt .titleHeader .totalRecords { font-size: 14px; }
+.honourSrhResualt .titleHeader .totalRecords {margin-right: 5px;padding-right: 5px;}
+.dataTables_wrapper .dataTables_paginate {padding: 10px;margin: 0;}
+.dataTables_wrapper .dataTables_paginate .paginate_button, .searchHonour .form-control, .searchHonour .custom-select select.form-control { font-size: 14px; }
+.dataTables_wrapper .dataTables_paginate .paginate_button.next:before, .dataTables_wrapper .dataTables_paginate .paginate_button.previous:before { font-size: 16px; }
+.muralsDetail .titleHeader h2 .smallTitle { font-size: 14px; }
+.brdStyle.resTab .tabNav { display: none; }
+.brdStyle.resTab .r-tabs-accordion-title { display: block; }
+.brdStyle.resTab .r-tabs-accordion-title br { display: none; }
+.aboutMemorial .brdStyle .col-md-5 img { width:100%; }
+.aboutHexagon .imgHolder { text-align: center; margin-bottom:20px; }
+.aboutHexagonList li:before { border-width:1px; width:25px; height: 25px;line-height: 22px;}
+.aboutHexagonList li { font-size: 14px; }
+.facilitynwmList .facilitynwmItem .titleText { font-size: 14px;padding: 0 3px; }
+.facilitynwmList .facilitynwmItem { padding: 15px 0; }
+.activitiesnwm .whiteBox { min-height: 1px !important; margin-bottom:15px; }
+.activitiesnwm .whiteBox.minHnone { margin-top: 0 !important; }
+.activitiesnwm .largeBox .wreathWould {background-position: 0 0;margin-bottom: 20px;}
+.highlightsnwmItem { margin: 15px 0; }
+.faqRow .fQuestion:before, .faqRow .fAnswer:before {width: 25px;height: 25px;line-height: 23px;font-size: 14px;}
+.faqRow .fQuestion p {font-size: 15px;font-weight: 600;}
+.faqRow .fAnswer p {font-size: 15px;}
+.faqRow .fQuestion, .faqRow .fAnswer { padding: 1px 0 15px 35px }
+.faqRow .fQuestion:after { left: 12px; }
+.faqRow {margin-bottom: 10px;}
+.honourSrhResualt .titleHeader h2 { margin-bottom: 15px!important; }
+.honourSrhResualt .rightFilter .dropFilter { display: block; }
+.honourSrhResualt .titleHeader .form-group { width:49%;}
+.honourSrhResualt .titleHeader .form-group .custom-select { width:100%; }
+.honourSrhResualt .titleHeader form { text-align: left; }
+.honourResualtWrap .dataTables_length { width:100%; left:auto; right:auto; text-align:center; padding:0; }
+.honourResualtWrap .dataTables_length select { height: 35px; font-size:14px; }
+.honourResualtWrap .dataTables_length { bottom: 40px; }
+.honourResualtWrap .dataTables_wrapper .dataTables_paginate { padding-top:50px}
+.honourResualtWrap .dataTables_info { padding-top:10px; }
+.honourResualtWrap .dataTables_info, .honourResualtWrap .dataTables_length{ font-size: 14px; }
+.dataTables_wrapper .dataTables_paginate .paginate_button.next { padding-left:0; padding-right:13px;}
+.dataTables_wrapper .dataTables_paginate .paginate_button.previous { padding-right:0; padding-left:13px;}
+.urClass .dataTables_wrapper .dataTables_paginate .paginate_button.next { padding-left:13px; padding-right:0;}
+.urClass .dataTables_wrapper .dataTables_paginate .paginate_button.previous { padding-right:13px; padding-left:0;}
+.urClass .dataTables_wrapper .dataTables_paginate { float:none; }
+.ksClass .dataTables_wrapper .dataTables_paginate .paginate_button.next { padding-left:13px; padding-right:0;}
+.ksClass .dataTables_wrapper .dataTables_paginate .paginate_button.previous { padding-right:13px; padding-left:0;}
+.ksClass .dataTables_wrapper .dataTables_paginate { float:none; }
+.dataTables_wrapper .dataTables_paginate .ellipsis {padding: 0 0 0 10px;}
+.labelBtn .icon { width:24px; height:29px; background-size:100%; }
+.backLink, .labelBtn { font-size: 14px; }
+.honourDetail .titleHeader h2 small {font-size: 15px;}
+.honourPhoto .imgHolder { margin: 0 auto 15px auto; max-width: 340px; }
+.donateMartyr h2 {font-size: 18px;}
+.donateMartyr .white-btn {font-size: 16px;}
+.homeMediaBlock .tabContainer .button, .homeMemories .text-center .button  { width:100%; text-align:center; }
+.planYourVisit .timings{border: 0 !important; padding-bottom: 30px;}
+.planYourVisit h6{font-size: 14px;}
+.planYourVisit h3{font-size: 16px;}
+.planYourVisit_bus{width: 60px;}
+.pink-bg{height:auto;}
+.activity-box .content{padding: 15px 0 0 0;}
+.faq .nav-tabs li a{font-size: 14px;}
+.memorial-map iframe{height:250px}
+.faq .nav-tabs li a.active{background: #8d2c2b; color: #fff !important;}
+.general-query span, .facility span, .norms span, .restriction span{display: none;}
+.upcoming_events .swiper-container { margin: 0 0 10px 0; }
+.contactDetail p .fa { width: 25px; height: 25px; line-height: 25px; font-size: 14px; }
+.contactDetail p { padding-left: 35px; padding-top: 0; }
+.contactDetail p br { display: none; }
+.contactDetail p strong { display: block; }
+.contactMap iframe { height: 250px; }
+.muralsTab.resTab .tabNav { display: block; }
+.muralsTab.resTab .r-tabs-accordion-title { display: none; }
+.muralsTab.resTab .tabNav li a {font-size: 17px;padding: 10px 40px;}
+.eventItem h3 { font-size: 16px; margin-bottom:0; }	
+.eventPad .row .col-md-4 { -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%;}
+.eventListWrap .eventItem { height:auto; margin-bottom: 15px; }
+.detailPageImg, .ksClass .detailPageImg, .urClass .detailPageImg {width: auto;float: none;margin: 0 0 15px 0;}
+.eventData {padding-bottom: 10px;margin-bottom: 15px;}
+.prev-event a, .next-event a { font-size: 14px; }
+.galleryItem { margin-bottom: 15px; }
+.photoGalleryWrap .titleHeader { display: block !important; text-align:right; }
+.photoGalleryWrap .titleHeader h2 { margin-bottom: 15px; text-align:left; width:auto; }
+.timeline-content .rightContent {padding-left: 0;}
+.timeline-content .rightContent h2, .timeline-nodes:nth-child(2n+1) .timeline-content .rightContent h2 {font-size: 16px;padding-right: 0;margin-left: -30px; padding-left: 30px;margin-right: 30px;}
+.timeline-nodes:nth-child(2n+1) .timeline-content .row { margin-left: 0; }
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent .knowMore { margin-left: 0; }
+.timeline-content .row { margin-right: 0; }
+.timeline-content .fa-times {right: -13px;top: -15px;}
+.timeline-nodes:nth-child(2n+1) .timeline-content .rightContent .knowMore, .timeline-content .rightContent .knowMore { display: none; }
+.timeline-nodes .hideContent { display: block; padding-top:5px; }
+.exploreMap h1 span { font-size: 14px; }
+.indianLinks li { padding: 0 5px; }
+.galleryItem .galleryTitle { min-height: 1px; padding-bottom:5px; }
+.homeGalleryItemWrap { margin-bottom: 30px; margin-top:0; }
+.indianLinks li:before { left: -2px; }
+.homeage-left-section, .homeage-right-section{ padding:20px; }
+.hdCatItem {padding: 15px 1px 0 1px;}
+.martyrsWall table tr td { line-height: 5px; }
+.martyrsWallTable { width: 100%; overflow-x:auto; }
+.martyrsWallTable table { width:767px; }
+.martyrsWall h3 .smallText { font-size: 16px; }
+.homeGalleryItem { height: 178px; }
+.eventItem .imgHolder, .galleryItem .imgHolder { height: auto; }
+.feedbackForm {box-shadow: 0 0 0 rgba(0,0,0,0);padding: 0;}
+
+/*Product Details Start*/
+.productDetail .slider__flex {flex-direction: column-reverse; }
+.productDetail .slider__col {flex-direction: row; align-items: center; margin-right: 0; margin-top: 14px; width: 100%; }
+.productDetail .slider__images {width: 100%; height: 200px; }
+.productDetail .swiper-slide{min-height: 60px; } 
+.productDetail .slider__thumbs {height: 60px; width: calc(100% - 40px); margin: 0px 0 20px 0; }
+.productDetail .slider__prev, .productDetail .slider__next {height: auto; width: 32px; transform: rotate(-90deg ); margin: 0px 0 20px 0;}
+.productDetail .slider__image img{height: 100%; padding: 5px; }
+/*Product Details End*/
+/*Souvenir Start*/
+.shoppingStore h6{font-size: 14px; line-height: 1.5; font-weight: 600;}
+.souvenir_bnr .rightBnr-part{width: 100%; margin-top: 20px; float: none; }
+.souvenir_bnr .leftBnr-part h1{font-size: 35px;}
+.souvenir_bnr .leftBnr-part h2{font-size: 20px;}
+.souvenir_bnr .leftBnr-part p{font-size: 15px; padding: 17px 0; line-height: 1.4; font-weight: normal;}
+.souvenirBanner{margin-top: 0;}
+.souvenirBanner .slide-bnr{position: relative;}
+.souvenirBanner .slide-bnr .bnr-content .freeShip{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .bnr-content .easyReturn{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .swiper-pagination{bottom: 57px;}
+.shoppingStoreBox h1{font-size: 24px; margin-bottom: 7px; margin-top: 7px}
+.shoppingStoreBox .imgHolder {padding-top: 20px;}
+.shoppingBnr{background-position: center top; background-size: auto;}
+.shppingContent{float: none; padding: 40px 0; width: 100%}
+.shppingContent h1{font-size: 2em;}
+.whatsNew{padding-top: 20px; background-position: center top; background-size: auto;}
+.whatsNew .store_box{min-height: 350px;}
+.shopingDetails .detailBox{margin: 10px 0;}
+.shopingDetails .detailBox .red-text{padding-top: 10px;}
+.homeMediaBlock .tabContainer .ebookItem .bookRightDetail .button { width:auto;}
+/*Souvenir End*/
+.souvenir_bnr .leftBnr-part p { display: none; }
+.souvenir_bnr .leftBnr-part h2 { margin-bottom: 15px; font-size: 16px; }
+.souvenir_bnr .leftBnr-part h1 { font-size: 18px; }
+.shppingContent h3 { font-size: 16px; }
+.topselling_product .swiper-container { margin: 0 -15px; padding: 0 50px; }
+.topselling_product .swiper-container-horizontal > .swiper-pagination-bullets { display: none; }
+.whatsNew .topselling_product .swiper-container-horizontal > .swiper-pagination-bullets { display: block; } 
+.whatsNew .store_box { min-height: 1px; }
+.exploreMurals .muralsItem p { min-height: 1px; }
+.documentList .documentItem { min-height: 45px; }
+.documentList li a { padding: 10px 0; }
+.documentList li .pdfIcon { top: 7px; }
+.documentList.newsletterList .documentItem {padding-bottom: 10px;padding-top: 10px;}
+.urClass .documentList .documentItem { padding-left:0;}
+.ksClass .documentList .documentItem { padding-left:0;}
+.newsletterList .documentItem .readMore { padding: 0; }
+.documentList li .documentTitle { font-size: 16px; padding: 10px 0; }
+.subscribeNewslettersForm { margin-bottom: 20px; padding: 10px; }
+.honorsSearchWrap { margin-top:0;}
+.honorsSearch .honorsSearchHandel, .honorsSearch .colleps { display: none !important;}
+.honorsSearch { position: static !important;}
+.honorsSearchForm { display:block !important;}
+.honorsSearch.active {box-shadow: 0 0 0 rgba(0, 0, 0, 0); background:none;}
+.homePopupBody { padding: 10px; max-width: 320px; }
+.homePopupBody h2 { font-size: 11px;font-weight: 600; margin-bottom:10px; }
+.homePopupBody .smallImgHolder { width: 50px;height: 50px;bottom: -25px; }
+/*.homePopupBody .homageImgWrap { padding-bottom: 90px; }*/
+.popupBottomBlock { width: 100%; }
+.multiRose {bottom: 5px;margin-left: -25px;width: 45px;}
+.roseFlow {height: 65px;width: 60px; margin-left: -30px; }
+.homePopupBody .smallImgHolder.active {width: 25px;height: 25px;bottom: -3px;}
+.homageImgWrapIndv .multiRose {bottom: 45px;width: 130px;height: 29px;margin-left: -53px;}
+.homePopupBody .homageImgWrapIndv .smallImgHolder.active {width: 60px;height: 60px;bottom: 20px;margin-left: 20px;}
+.homageImgWrapIndv .indYoddhasName{top: 44px;margin-left: -52px;width: 126px;font-size: 11px;}
+.homageImgWrapIndv .roseFlow {height: 55px;width: 125px;margin-left: -50px;}
+.homePopupBody .homageImgWrapIndv .smallImgHolder {width: 100px;bottom:-45px;}
+.homePopupClose {width: 30px;height: 30px; line-height:27px; font-size: 16px;}
+.button.w100Mob {  width:100%; text-align:center; }
+.virtualTourVideo { padding: 10px; }
+#main { min-height: 1px; }
+.productDetail { padding-top:0;}
+.productRightDetail h2, .productRightDetail .productPriceLarge { font-size: 18px; }
+.homePopupBody .alert-success{left: 0;top: 0;right: 0; font-size: 12px;padding: 5px;}
+.loginForm { max-width:100%; }
+.loginForm .extAction { margin: 25px 0 0 0; }
+.splashModal .modal-body{padding: 15px;}
+.splashModal .modal-content { border-width:2px; }
+.splashModal .modal-content p {font-size: 14px; margin-bottom:5px;}
+.splashModal .modal-dialog { padding: 0 10px; }
+.splashModal .close { right:-10px; top:-10px; }
+.pano {min-height: 250px; margin-top:20px; }
+.pano .controls a { width:35px; height:35px;font-size: 2em;line-height: 29px;}
+.ourProductsList .memoriesItem { margin-bottom: 15px; }
+.headerCart {margin-left: 0;position: absolute;top: -67px;right: 0;}
+
+.orderTable tr th, .orderTable tr td { padding: 5px; font-size:14px; }
+.orderTable tr td { width:90px; text-align:right; }
+.billingDetailsForm, .checkoutOrderWrap, .checkoutAddress { padding: 10px; }
+.checkoutPlaceOrder .button {font-size: 16px;}
+.payRollBtnWrap { margin-bottom: 15px; }
+.aboutMemorial .brdStyle.resTab .tabNav li a { min-height:1px; }
+.linkTab li { width: 50%; }
+.linkTab li a { font-size: 16px; padding: 10px; }
+.panoramaBoxDiv {height:200px; }
+.userDashboardList .userDasItem .icon { width: 40px; }
+.userDashboardList .userDasItem { padding: 20px 5px;}
+.userDashboardList .userDasItem .titleText { font-size: 16px; }
+
+.pollWrap, .quizWrap { padding:0;box-shadow: 0 0 0 rgba(0, 0, 0, 0); }
+.pollWrap h2, .quizWrap h2 { font-size:18px;}
+.pollBox h3, .quizWrap h3 { font-size:17px; font-weight:600;}
+.quickSurveyModal .modal-header { padding: 10px; }
+.quickSurveyModal .modal-header h2 { font-size: 18px; }
+.quickSurveyModal .form-group h2{ font-size:16px; }
+.quickSurveyModal .form-group h3, .quickSurveyModal .form-group h5 { font-size:15px; }
+.quickSurveyModal .form-group { margin-bottom:7px; padding-bottom:7px; }
+.quickSurveyModal .close {right: 0;top: 0;border-radius: 0;height: 47px;box-shadow: 0 0 0 rgba(0, 0, 0, 0);background: #8d2c2b;color: #fff;}
+.planYourVisit .timings .timetable h2 { font-size:18px;}
+.resTab.muralsTab .tabNav li a { font-size: 14px; padding: 10px; min-height:65px; }
+
+/*.headerRow { padding-bottom: 50px; }*/
+#header { position: relative;padding-bottom: 30px; }
+/*#header:before { position: absolute; left:0; right:0; bottom:0; height: 35px; content:""; background-color:#f1f1f1; }*/
+.topStrip .stripLeft, .topStrip .stripRight, .topStrip .rightLinks li { position: static; }
+#header .language { position: absolute; left:10px; top:0;border-left: 0;padding-left: 0;}
+#header .language:after { width:1px; height: 100%; position: absolute; right:-10px; top:0; content:""; background-color:#dcdcdc; }
+.language .customSelect { height: 35px; }
+.language:before { top: 5px; }
+.topStrip .search { right:0; top:auto; left:0; bottom:0; border-left:0;}
+.search a { display: none; }
+.search .form-wrapper { display: block !important; position:static; padding:0; border:0;box-shadow: 0 0 0 rgba(0, 0, 0, 0); width:100%; }
+.search .form-wrapper .form-item .form-text, .search .goBtn { height: 35px; }
+.search .form-wrapper:before { display: none; }
+.search .form-wrapper .form-item .form-text {background-color: #f1f1f1; color:#595959; font-size:14px; }
+.search .form-wrapper .form-item .form-text::-webkit-input-placeholder {color:#595959;}
+.search .form-wrapper .form-item .form-text::-moz-placeholder { color:#595959;}
+.search .form-wrapper .form-item .form-text:-ms-input-placeholder {color:#595959;}
+.search .form-wrapper .form-item .form-text:-moz-placeholder {color:#595959;}
+.search .goBtn{background: url(../images/search-icon-dark.png) no-repeat center center;}
+.language .customSelect{ color:#595959; font-size:14px;}
+.answerList li { width: 50%; }
+.mt-4.btnRow { text-align:left !important;}
+/*.muralItem.warDepictions h2 { width: 60%; }*/
+.urClass .topStrip .search {border-left: 1px solid #ccc; border-right: 0;}
+.urClass .footerLogos .subscribe {border-right-width: 0;border-left-width: 0;}
+.urClass .footerLogos .subscribeNewslettersForm { padding: 15px; }
+.urClass .headerCart { left:0; margin-right:0;}
+.urClass .searchHonour .row { padding-left:0; }
+.urClass .honourResualtWrap .dataTables_length { right:auto; left:0;}
+.urClass .honourResualtWrap .dataTables_info { float:none; padding-right:0;}
+.urClass .photoGalleryWrap .titleHeader h2 { text-align: right; }
+.ksClass .topStrip .search {border-left: 1px solid #ccc; border-right: 0;}
+.ksClass .footerLogos .subscribe {border-right-width: 0;border-left-width: 0;}
+.ksClass .footerLogos .subscribeNewslettersForm { padding: 15px; }
+.ksClass .headerCart { left:0; margin-right:0;}
+.ksClass .searchHonour .row { padding-left:0; }
+.ksClass .honourResualtWrap .dataTables_length { right:auto; left:0;}
+.ksClass .honourResualtWrap .dataTables_info { float:none; padding-right:0;}
+.ksClass .photoGalleryWrap .titleHeader h2 { text-align: right; }
+.activity-box .content .title { min-height: 1px; font-size:16px; }
+.competitionItem .imgHolder { height: auto; }
+.competitionItem .competitionTitle { min-height: 1px; }
+.live-feed-list{max-height: 300px;}
+.facilitynwmList li { -webkit-box-flex: 0;-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50%; }
+.facilitynwmList li:nth-child(even):before { display: none; }
+/*.tourItem { padding-top: 40px; }*/
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 195px; }
+.productList .memoriesItem .productCard .memoriesTitle { min-height: 1px; }
+.whatsNew .topselling_product .imgHolder { height:210px; }
+.shoppingStoreBox h3, .TopSellingPart h3, .whatsNew h4 { font-size: 15px; }
+.notification {margin-left: 9px;}
+.khClass .planYourVisit_footfall, .grClass .planYourVisit_footfall { width: 40px; }
+.homeMediaBlock .resTab .tabContent .text-center.mt-4 { margin-bottom: 0 !important; margin-top: 0 !important;}
+.homeMemories .titleHeader h2 { margin-bottom: 20px; }
+.footerLogos .subscribeNewslettersForm { padding: 20px 15px 25px 15px; }
+.popupBottomBlock p { font-size: 14px; }
+.slotBookingWrap, .onlinePollWrap, .onlineQuizWrap, .donateMain { background:#fff; }
+.formBlock, .donateWrap .volunteerForm, .donateWrap { padding:0;box-shadow: 0 0 0 rgba(0,0,0,0);}
+.surveyOptions { display:block; margin:0;}
+.surveyOptions li { display:block; width:100%;max-width: 100%; padding:0; }
+.surveyOptions li .pollItem { padding: 10px 10px 10px 35px; width:100%; }
+.surveyOptions li .pollItem:before {left: 10px;top: 12px;}
+.surveyOptions li .pollItem:after {left: 14px;top: 16px;}
+.donateMartyrWrap .neverForgotten .container { padding-left:0; padding-right: 0; }
+.tmClass .muralsTab.resTab .tabNav li a {padding-left: 5px;padding-right: 5px;}
+.muralItem .titleHeader { display: block !important; }
+.homeMediaBlock .resTab .tabNav { display: none; }
+.homeMediaBlock .resTab .r-tabs-accordion-title { display: block; }
+.homeMediaBlock .resTab .r-tabs-accordion-title { font-size: 18px; }
+.activitiesnwm .largeBox .wreathWould { width: auto; }
+.topStrip .row .stripLeft { -ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.honourResualtWrap .dataTables_length, .honourResualtWrap.grid .dataTables_length {	bottom: 40px;}
+.ngClass .yourVisit p { min-height:52px;}
+.topStrip .row .stripLeft { display: none !important; }
+.topStrip { height: 35px; }
+.faq .nav-tabs li a span { display: none !important; }
+.ngClass .faq .nav-tabs li a { min-height:85px; }
+.mzClass .faq .nav-tabs li a { min-height:63px; }
+.mlClass .neverForgotten { padding-bottom:30px;}
+.mlClass .planYourVisit_footfall {width: 39px;}
+.mlClass .howToReach p {margin-bottom: 0;word-wrap: break-word;}
+.mlClass .faq .nav-tabs li a {min-height: 65px;}
+.mlClass .event-tab ul li { width:50%;}
+.mlClass .event-tab ul li a { text-align:center;}
+.loginWrap { background-color:#fff; }
+.loginFormWrap {box-shadow: 0 0 0 rgba(0,0,0,0);}
+.loginFormWrap .feedbackForm { padding: 0; }
+.loginFormWrap .loginInfo { padding:15px; margin-top:25px; }
+.loginFormWrap .loginInfo h2 { font-size:18px; }
+.loginInformation li { font-size: 15px; }
+.mlClass .loginInformation li { font-size: 13px; }
+.loginInformation .infoText { left: 80px; }
+.dataTables_wrapper .dataTables_paginate .paginate_button.next, .dataTables_wrapper .dataTables_paginate .paginate_button.previous { font-size:0; width:21px; height: 21px; vertical-align:middle; line-height:21px;}
+.dataTables_wrapper .dataTables_paginate .paginate_button.next:before, .dataTables_wrapper .dataTables_paginate .paginate_button.previous:before { font-size:14px; top:2px; }
+.ksClass #header .language, .urClass #header .language {border-left: 0;border-right: 0;padding-left: 0;padding-right: 10px; left:auto; right:0;}
+.ksClass #header .language:after, .urClass #header .language:after  { right:auto; left: -10px; }
+.faqsTabs.resTab .r-tabs-accordion-title { font-size:17px;}
+.tableFilter ul.paging li.first a, .tableFilter ul.paging li.prev a, .tableFilter ul.paging li.next a, .tableFilter ul.paging li.last a { font-size:0;width: 20px; height: 20px; display: block;}
+.tableFilter ul.paging li.first a .fa, .tableFilter ul.paging li.prev a .fa, .tableFilter ul.paging li.next a .fa, .tableFilter ul.paging li.last a .fa {font-size: 18px;}
+.tableFilterWrap { padding: 15px 5px; }
+.tableFilter ul.paging{font-size: 14px;font-weight: 400;}
+ul.paging li.prev a, ul.paging li.next a, ul.paging li.page a, ul.paging li.first a, ul.paging li.last a, .page.acitve{ padding: 0 5px; }
+.tableFilter .totaltitle { font-size: 14px; }
+.loginFormWrap .loginFrgPassword { text-align: left !important; }
+.mnClass .planYourVisit_footfall, .ksClass .planYourVisit_footfall, .mzClass .planYourVisit_footfall {width: 40px;}
+.pay-homeage-img { width:35%;}
+.becomeAvolunteer .col-md-4 {-webkit-box-flex: 0;-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}
+.exploreMurals .titleHeader, .exploreYoddhas .titleHeader {display: block !important; text-align:right;}
+.exploreMurals .titleHeader h2, .exploreYoddhas .titleHeader h2 { text-align:left; margin-bottom:10px;}
+.urClass .exploreMurals .titleHeader, .urClass .exploreYoddhas .titleHeader, .ksClass .exploreMurals .titleHeader, .ksClass .exploreYoddhas .titleHeader {text-align:left;}
+.urClass .exploreMurals .titleHeader h2, .urClass .exploreYoddhas .titleHeader h2, .ksClass .exploreMurals .titleHeader h2, .ksClass .exploreYoddhas .titleHeader h2 { text-align:right;}
+.ticketBookTable .table_responsive .product-quantity { width:120px; }
+#emailverify-email .input-group-append, #div-mobile .input-group-append, #field-otp-email .input-group-append, #field-otp-mobile .input-group-append {display: block;width: 100%;margin-top: 5px;}
+#emailverify-email .input-group-append .btn, #div-mobile .input-group-append .btn,
+#field-otp-email .input-group-append .btn, #field-otp-mobile .input-group-append .btn {width: 100%;text-align: center;}
+.exploreMurals .col-lg-4 { display: block; }
+.muralsItem .bottomCard { padding: 18px; }
+.muralsItem .knowMore { position: static; }
+.ksClass .userBtnLinkWrap, .urClass .userBtnLinkWrap { margin-left: 45px; }
+.muralItem .button { position: static; }
+.bustWrap .fa {width: 50px;height: 50px;line-height: 50px;font-size: 25px;}
+.bustWrap { margin-top: 30px; }
+.bustWrap:hover .fa { background:#fff; color:#8d2c2b; }
+.innerBannerWrap .bannerImg { height: auto !important; }
+.onlineQuizFormWrap .surveyOptions{max-height: inherit; overflow: hidden; overflow-y: hidden;}
+.twentytwenty-before-label:before, .twentytwenty-after-label:before { line-height: 25px; padding: 0 5px; font-size: 10px; }
+.twentytwenty-handle { width: 40px; height: 40px;margin-left: -20px;margin-top: -20px; }
+.twentytwenty-horizontal .twentytwenty-handle:before {margin-bottom: 20px;}
+.twentytwenty-horizontal .twentytwenty-handle:after {margin-top: 20px;}
+.bustWrap { height: auto; }
+.tourItem .imgHolder { height: auto; }
+.honorsSearchWrap { width: 100%; }
+
+.mobileAppFeaturesWrap ul li{width:50%; font-size:15px;}
+.mobileAppImg {text-align: center;}
+.downloadMobileAppWrap .mobileAppBox .row .imgPosition {position: static; width: 500px;	margin: 0 auto;}
+.qrCodeBox {text-align: center;}
+.downloadMobileAppWrap .mobileAppBox h2 {margin-bottom: 30px;}
+.qrCodeWrap {margin-bottom:20px; clear: both;}
+.mobileAppLink {text-align: center;	margin-bottom: 30px;}
+.qrCodeWrap .qrCodeBox .qrCodeImg img{width:130px;}
+
+/*client issue 26-7-22*/
+.resTab .r-tabs-accordion-title .r-tabs-anchor{padding: 12px 15px 12px 0;}
+.resTab .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor{padding: 12px 15px 12px 10px}
+.btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary.focus, .btn-primary:focus {
+    background: #8c7021; box-shadow: 0 0 0 #fff;color: #fff;}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {background: #8c7021; box-shadow: 0 0 0 #fff;border-color: #8c7021;}   
+.virtualTourBtn{ height: 48px; }
+.aboutHexagon .button{ padding: 15px;}
+.aboutSignificance .button.btn-primary:hover, .aboutSignificance .button.btn-primary:focus{ background: #fff; color: #8d2c2b;}
+.lightingSchemeSlider .swiper-pagination-bullet{background:  #8c7021;}
+.aboutHexagon .button, .aboutSignificance .button{line-height: 30px; padding: 12px 25px;}
+.checkList li:before, .faq-acc .card-header:after{ color: #8c7021; }
+.ribbon span{background: #8d2c2b;}
+.guideline_list ul li:before{ color: #8c7021; }
+.faq-acc .card-header { padding: 12px 30px 12px 10px;}
+.footerLogos .scaptchaImg .scaptcha { margin-top: -4px;}
+.activitiesnwm .checkList li:not(:last-child){ padding-bottom: 15px;}
+.activitiesnwm .largeBox .wreathWould{ padding: 0px 0 16px 76px; margin-top: 15px;margin-bottom: 10px; }
+.activitiesnwm .whiteBox{ padding: 30px 15px; }
+.faq-acc .card-body{ border: none; }
+.collapse.show{border: solid 1px #ddd; border-top: none;}
+
+}
+
+@media only screen and (max-width: 639px){
+#navbar-brand {width: 185px;margin-left: -5px;}
+.toggleMenu { width: 35px; height: 35px; padding: 8px 5px; }
+.toggleMenu .iconBar:nth-child(2) { margin: 5px 0; }
+.bookVisitLink {margin-right: 40px;line-height: 35px;font-size: 13px;padding: 0 6px;}
+.homeBanner .homeSliderArrow, .footerLogoSlider .footerSliderArrow { height: 35px; width: 34px; font-size: 19px; }
+.homeBanner .homeSliderArrow .fa { line-height: 34px; }
+.footerLogoSlider .footerSliderArrow .fa { line-height: 32px; }
+.eventLarge .bottomCard { padding: 15px; }
+.eventSmall .imgHolder { margin-bottom: 15px; }
+.downloadHomeApp .appImgHolder div:first-child { width: 120px; }
+.downloadHomeApp .appImgHolder div:nth-child(2) { width: 150px; }
+.yourVisit p { font-size: 14px; }
+.yourVisit li, .yourVisit li:first-child { padding: 0 5px; }
+.nwmImpLinksSlider .swiper-container, .siteImpLinksSlider .swiper-container, .homeMemoriesSlider .swiper-container {padding: 0 80px;}
+.homeMediaBlock .tabContent h2 { font-size: 17px; }
+.homeMemories .viewAll { top: -12px; }
+.volunteerFormWrap h2 { font-size: 19px; }
+.volunteerFormWrap h3 { font-size: 17px; }
+.selectService .custom-control-label { font-size: 14px; }
+.selectService .checkboxWrap { min-height: 100px; }
+.selectService .custom-control-label:after { margin-top: -20px; }
+.selectService .custom-control-label span { line-height: 1.1; }
+.volunteerForm .selectDays li { width: 24%; }
+.volunteerForm .selectDays li, .volunteerForm .selectDays li:first-child { padding: 0 5px; margin: 3px 0; }
+.volunteerForm .selectDays li:not(:last-child):before { display: none; }
+.volunteerForm .form-btn-row, .volunteerFormWrap .titleHeader  { display: block !important; }
+.volunteerForm .form-btn-row .button { margin-top: 20px; width:100%; display: block; text-align:center; }
+.pageTitle h1 { font-size: 20px; }
+.popupSecuredWrap { text-align: right; }
+.popupSecuredTxt { display: inline-block; width:auto;}
+.mandatoryRule { width: 270px; text-align: left; }
+.footerRow .customSelect { padding-left: 10px; }
+.selectDays li .custom-control-label { font-size: 15px; }
+.bannerImg { height: 100px; background-position:center center; }
+ul.breadcrumb li { font-size: 14px; }
+nav.breadcrumb { padding: 8px 0; }
+.exploreMap h1 { font-size: 20px; }
+.mapHexagon img {max-width: 100%;}
+h2 { font-size: 20px;}
+h3 { font-size: 19px;}
+h4 { font-size: 18px;}
+h5, .largeFont { font-size: 17px;}
+h6 { font-size: 16px;}
+.muralItem h2 {font-size: 16px;}
+.muralItem .muralYear {font-size: 14px; top:0;}
+.muralItem p { font-size: 14px; }
+
+.aboutMemorial .col-md-9.col-sm-8 { text-align: center; }
+.aboutMemorial .col-md-3.col-sm-4 { margin-bottom: 15px; }
+.lightingSchemeSlider { margin-bottom: 20px; }
+.highlightsnwmItem .imgHolder img { width: 100%; }
+.highlightsnwmItem h3 br { display: none; }
+.highlightsnwmItem h3 { margin-bottom: 10px; }
+.highlightsnwmItem .imgHolder {margin-bottom: 15px;}
+.highlightsnwmItem { margin: 0 0 15px 0; }
+.remarkSmg { margin-bottom:15px !important; padding-bottom:0 !important; }
+.remarkSmg h4 { margin-bottom: 15px; }
+.honourDetailCat li { width: 50%; }
+.honourPhoto p { font-size: 17px; }
+.donateMartyrWrap { margin-top: 0; border:0;}
+.planYourVisit .timings{border-right: 0; padding-bottom: 30px;}
+.planYourVisit h6{font-size: 14px;}
+.planYourVisit h3{font-size: 16px;}
+.planYourVisit_bus{width: 60px;}
+.pink-bg{height:auto;}
+.howToReach .border-r:nth-child(2){border: 0}
+.activity-box .content{padding: 15px 0 0 0;}
+.faq .nav-tabs li a{font-size: 14px;}
+.muralsTab.resTab .tabNav li a { padding: 8px 5px;}
+.eventPad{padding:15px}
+.event-tab ul li .nav-link{padding: 10px 20px; font-size: 15px;}
+.mlClass .event-tab ul li .nav-link{ font-size: 15px;}
+.event-tab .event-link{font-weight: bold; padding: 15px 40px; text-align: center; float: none;}
+.eventRecord .per-page .total-record{float: none; text-align: center; padding-top: 0; padding-bottom: 20px;}
+.eventRecord .record-perPage {float: none; right: 0; left: auto; border: 0;position: relative; float: none; }
+.event-pagination .page-link{font-size: 14px;}
+.event-pagination .page-link i {font-size: 16px;}
+.event-pagination {padding-top: 20px; padding-right: 0; margin-bottom: 0;}
+.eventRecord .record-perPage { text-align: center; }
+.homeage-donate{ padding-bottom:20px;}	
+/*Product Details Start*/
+
+.productDetail .shipping-block{padding-left: 20px; border-left: 0; padding-top: 10px;}
+.product-image-thumb{margin-right: 10px; margin-top: 10px;}
+.product-image-thumb:last-child{margin-right: 0;}
+.productDetail .add-cart-btn{padding: 12px 5px;}
+.swiper-button-next {right: 20px; transform: rotate(90deg)}
+.swiper-button-prev {left: 20px; transform: rotate(90deg)}
+/*Product Details Start*/
+/*Souvenir Start*/
+.shoppingStore h6{font-size: 14px; line-height: 1.5; font-weight: 600;}
+.souvenir_bnr .leftBnr-part{float: none; width: 100%;}
+.souvenir_bnr .leftBnr-part p{display: none;}
+.souvenir_bnr .leftBnr-part .explore-btn{padding: 10px 20px; font-size: 16px; margin-top: 10px}
+.souvenirBanner .slide-bnr{position: relative;}
+.souvenirBanner .slide-bnr .bnr-content .freeShip{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .bnr-content .easyReturn{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .swiper-pagination{bottom: 57px;}
+.shoppingStoreBox h1{font-size: 24px; margin-bottom: 7px; margin-top: 7px}
+.shoppingStoreBox .imgHolder {padding-top: 20px;}
+.shoppingBnr{background-position: center top; background-size: auto;}
+.shppingContent{float: none; padding: 40px 0; width: 100%}
+.shppingContent h1{font-size: 2em;}
+.whatsNew{padding-top: 20px; background-position: center top; background-size: auto;}
+.shopingDetails .detailBox{margin: 10px 0;}
+.shopingDetails .detailBox .red-text{padding-top: 10px;}
+/*Souvenir End*/
+.documentList .documentItem { min-height:1px; padding:0 0 10px 0; }
+.documentList li .pdfIcon { position: static; }
+.newsletterList .documentItem .pdfIcon{ margin-bottom:10px; display:inline-block; }
+.documentList li .pdfIcon img { width:22px; }
+.productImgSlider { width:100%; }
+.productImgSlider, .gallery-thumbs {height: 310px;}
+.relatedProduct .swiper-container { padding: 0 50px; margin: 0 -15px; }
+.relatedProduct .swiper-pagination { display: none; }
+.relatedProduct h4 { font-size: 17px; }
+.loginRegLink li { width:50%; float:left;}
+.loginRegLink li a { font-size: 14px; width:100%; padding:5px 10px; }
+.loginRegLink li:first-child a, .loginRegLink li:first-child a:hover { background-color: #b08b29; }
+.loginRegLink li a:hover {background-color: #8d2c2b;}
+.headerRow { padding: 20px 0;}
+.headerRight { top: 0; }
+.loginRegLink { top:auto; bottom:-40px; left:-15px; right:-15px; width:auto;}
+.userBtnLinkWrap { margin-right:42px; }
+.detailTitle {font-size: 17px;}
+.competitionDetail .competitionStatus { display:block; width:80px; margin: 15px 0 0 0; text-align:center; font-size:13px;}
+.headerCart {top: -57px;}
+.userDashboardList li { -ms-flex: 0 0 49.5%;flex: 0 0 49.5%;max-width: 49.5%; }
+
+.surveyOptions { margin: 0 0 10px 0;}
+.surveyOptions li { float:none; width:auto; margin-bottom:8px; margin-right:0; }
+.pollBox .expire { font-size:14px; padding: 7px; }
+.pollBox .expire .poll { padding-left:29px; }
+.pollWrap h2, .pollBox h3, .quizWrap h3 { margin-bottom: 15px; }
+.pollBox .expire { margin-bottom: 15px;display: block !important;text-align: center; }
+.pollBox .expire .button {width: 100%;text-align: center;margin-top: 15px;}
+.quickSurveyModal .pollResponses li { float:none; width:auto;}
+.quizFooter, .quizNavigatorBlock { text-align:center; }
+.quizFooter .quizFooterLeft, .quizFooter .quizFooterRight, .ksClass .quizFooter .quizFooterLeft, .ksClass .quizFooter .quizFooterRight, .urClass .quizFooter .quizFooterLeft, .urClass .quizFooter .quizFooterRight { float:none; }
+.quizFooter .quizFooterRight .button { width: 100%;text-align: center;display: block;margin-bottom: 5px;}
+.quizFooter .quizFooterRight { padding-top: 10px; }
+.answerList li { float:none; width:auto;}
+.quiz-box { margin-bottom: 10px;}
+.sendOtpField .col-md-4 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%; -webkit-box-flex: 0;}
+.sendOtpField .col-lg-2 { -ms-flex: 0 0 100%; flex: 0 0 100%; max-width: 100%; -webkit-box-flex: 0; margin-top: -10px !important;}
+.sendOtpField .button { padding: 5px; font-size:14px; }
+.defaultRuppes li {margin-right: 5px; margin-bottom: 5px;}
+.defaultRuppes li span { padding: 5px 10px; font-size: 13px; width: 80px; text-align: center;}
+.urClass .marqueeScrollingWrap .viewAll { left:0;}
+.urClass .marqueeScrollingWrap { padding: 10px 0; }
+.urClass .marqueeScrollingWrap .btnMPause { right: 125px; }
+.urClass .bookVisitLink { margin-left: 40px; }
+.urClass .competitionDetail .competitionStatus { margin-right: 0; }
+.urClass .eventRecord .per-page .total-record { float:none; }
+.urClass .eventRecord .per-page .custom-select { margin-right: 5px; }
+.ksClass .marqueeScrollingWrap .viewAll { left:0;}
+.ksClass .marqueeScrollingWrap { padding: 10px 0; }
+.ksClass .marqueeScrollingWrap .btnMPause { right: 125px; }
+.ksClass .bookVisitLink { margin-left: 40px; }
+.ksClass .competitionDetail .competitionStatus { margin-right: 0; }
+.ksClass .eventRecord .per-page .total-record { float:none; }
+.ksClass .eventRecord .per-page .custom-select { margin-right: 5px; }
+.muralsDetail .titleHeader .muralYear { font-size: 14px; }
+.muralsDetail .titleHeader h2, .exploreYoddhas .titleHeader h2 { font-size: 17px; }
+.newsList .newsItem h2 { font-size: 15px; }
+.paramYoddhaItem .imgHolder { margin: 0 15px 15px 15px; }
+.paramYoddhaItem { padding: 15px 0; }
+.urClass .souvenir_bnr .leftBnr-part { text-align: left; }
+.ksClass .souvenir_bnr .leftBnr-part { text-align: left; }
+.sendOtpField .button { margin-top: 0; }
+.sendOtpField .col-lg-2 { padding-left: 15px; }
+.urClass .sendOtpField .col-lg-2 { padding-right: 15px; }
+.ksClass .sendOtpField .col-lg-2 { padding-right: 15px; }
+.pnClass .facilitynwmList .facilitynwmItem .titleText { display:block; /*min-height:44px;*/ }
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 315px; }
+.whatsNew .topselling_product .imgHolder { height:342px; }
+.notification { right: 47px; }
+.pageTitle h1 { max-width: 70%; }
+.mlClass .marqueeScrollingWrap, .mzClass .marqueeScrollingWrap {padding: 10px 0px;}
+.upcomingEvents .titleHeader { display: block !important; }
+.upcomingEvents .titleHeader h2 { width:auto; margin-bottom:15px;}
+.upcomingEvents .viewEventCalendar { float:right; }
+.upcomingEvents .titleHeader:after, .upcomingEvents .titleHeader:before { content:" "; display:table }
+.upcomingEvents .titleHeader:after { clear:both }
+.grClass .yourVisit p {min-height: 42px;}
+.grClass .muralsTab.resTab .tabNav li {width: 33.333%;}
+.grClass .muralsTab.resTab .tabNav li a{padding: 5px 10px;}
+.feedbackFormWrap .feedbackForm .form-group .button { width:100%; text-align:center; margin-bottom:5px; }
+.selectService .custom-control-label span { font-size:13px; }
+.mlClass .sendOtpField .button {font-size: 14px;padding: 10px 5px;}
+}
+@media only screen and (max-width: 575px){
+.nwmImpLinksSlider .swiper-container, .siteImpLinksSlider .swiper-container, .homeMemoriesSlider .swiper-container {padding: 0 40px;}
+.neverForgotten p { text-align: justify; }
+.neverForgotten .button { display: block; }
+.homeEvents h2 { width: 120px; }
+.viewEventCalendar { padding: 5px 8px; font-size:13px; }
+.yourVisit li, .yourVisit li:first-child { width: 48%; margin: 8px 0; border-left-width : 0; text-align:center; }
+.yourVisit .icon { margin: 0 auto 10px auto; }
+.yourVisit .icon1 {background-position: 7px -138px;}
+.yourVisit .icon4 {background-position: -111px -138px;}
+#backtotop {bottom: 20px;}
+.footerRow .selectWebsite { max-width: 100%; }
+.selectService { margin: 0 -3px; }
+.selectService li { padding: 0 3px; margin-bottom: 6px; }
+.selectService .custom-control-label span { padding: 0 3px; }
+.volunteerForm .selectDays { padding: 5px; }
+.volunteerForm .selectDays li { width: 23%; }
+.timeline-content .row .col-md-6:first-child {-ms-flex-order: 1;order: 1;}
+.timeline-content .row .col-md-6:nth-child(2) {-ms-flex-order: 2;order: 2;}
+.timeline-content .imgHolder { margin-left: 0; margin-bottom: 15px; }
+.timeline-content .rightContent h2, .timeline-nodes:nth-child(2n+1) .timeline-content .rightContent h2 { margin-left:0; margin-right:0; padding-left:0; padding-right:0;}
+.timeline-content .rightContent h2 {border-bottom: 0;padding: 0;}
+.paramYoddhaItem { margin-bottom: 20px; }
+.paramYoddhasList .titleHeader.d-flex {display: block !important;display: block !important;display: block !important;}
+.paramYoddhasList .titleHeader .form-group .form-control { height: 35px; font-size: 14px; }
+.paramYoddhasList .titleHeader .form-group .custom-select:before { top: 1px; }
+.audioClips .green-audio-player { margin-right: 0; }
+.audioLanguageWrap { position: static; margin-top: 15px; width:auto; }
+.green-audio-player { height: 46px; }
+.muralsItem, .exploreYoddhaItem {margin-bottom: 15px;}
+h2 {font-size: 18px;}
+h3, h3.smallTitle, h2.smallTitle {font-size: 17px;}
+h4.smallTitle {font-size: 16px;}
+/*.muralsItem .bottomCard {bottom: 0;background: rgba(141, 44, 43, 0.77);}
+.muralsItem h3 a, .muralsItem p {color: #fff;}*/
+.muralsItem .knowMore { padding: 6px 10px; /*border:0; background-color:#fff;color: #8d2c2b;*/}
+.bannerImg {background-position: center left;height: 90px;}
+.muralsDetail .imgHolder { padding: 10px; }
+.honourSrhResualt .titleHeader .totalRecords { display:block; margin: 10px 0 !important; padding:0; border:0; }
+.aboutHexagon .button, .aboutSignificance .button { font-size: 14px; display:block; width:100%; text-align:center; margin-bottom:10px; }
+.activitiesnwm .largeBox .wreathWould { font-size: 16px; }
+.facilitynwmList li:before {top: 10px;bottom: 10px; }
+.checkList li, .activitiesnwm .squareCheck li { font-size: 15px; }
+
+.timeline-content .rightContent h2 { margin-bottom: 5px; }
+.honourDetail .titleHeader { display: block !important; }
+.honourDetail .titleHeader .labelBtn {margin-top: 20px;display: block;text-align: center}
+
+.planYourVisit .timings .timetable{display: block; width: auto;}
+.planYourVisit .timings{border-right: 0; padding-bottom: 30px; padding-right: 0px;}
+.planYourVisit h6{font-size: 14px;}
+.planYourVisit h3{font-size: 16px;}
+.planYourVisit h5{color:#8d2c2b; font-size: 15px;}
+.planYourVisit_bus{width: 60px;}
+.pink-bg{height:auto;}
+.howToReach .border-r:nth-child(2){border: 0}
+.activity-box .content{padding: 15px 0 0 0;}
+.activities_list ul{font-size: 14px;}
+.activity-bg{padding: 5px;}
+.activity-box{padding: 15px; margin: 15px 0;}
+.faq .nav-tabs li a{font-size: 14px;}
+.memorial-map iframe{height: 250px;}
+.faq .nav-tabs li{width: 50%; margin: 0 auto;}
+.faq .nav-tabs li a, .faq .nav-tabs li:last-child a, .faq .nav-tabs li:first-child a { border: 1px solid #ddd; margin:1px; display:block; }
+.faq .nav-tabs li a.active, .faq .nav-tabs li:last-child a.active, .faq .nav-tabs li:first-child a.active {border: 1px solid #8d2c2b ;}
+.nav-justified .nav-item{flex-basis: auto; -webkit-box-flex: 1;}
+.howToReach p { font-size:14px; }
+.faq-acc .card-header { font-size: 15px; }
+.faq-acc .card-header i { display: none; }
+.faq-acc .card-body { padding: 10px; }
+.faq-acc .card-body p, .faq-acc .card-body {font-size: 15px; }
+.searchHonour.eventSearch .event-select label.pr-2 { width:60px; }
+.ngClass .searchHonour.eventSearch .event-select label.pr-2 {width: 180px;}
+.searchHonour .button { display:block; text-align:center; width:100%; }
+.searchHonour.eventSearch {margin-bottom: 20px;}
+.event-tab ul li .nav-link { font-weight: 600; text-align:center; }
+.event-tab ul li { width:50%; text-align:center; }
+.event-tab ul li:last-child .nav-link { border-right:0; }
+.eventItem h3 { font-weight:400; }
+.eventListWrap .eventItem .eventDate { font-size: 14px; }
+.timeline-nodes { margin-top: 0; }
+.nwmMapTimeline { padding-top: 40px; }
+.mb-sm-20{ margin-bottom:20px}
+.garland-div{ margin-bottom:20px}
+.homeGalleryItem { height:auto; }
+.homeGalleryItem .fa { margin-top:0;}
+.homeGalleryItemWrap { margin-bottom: 15px; }
+.photoGalleryWrap .titleHeader { margin-bottom: 20px; }
+/*Product Details Start*/
+.product-image-thumbs{flex-wrap: nowrap;width: 100%;}
+.product-image-thumb:last-child{margin-bottom: 15px;}
+.productDetail .quantity-number{padding-right: 20px;}
+.productDetail .shipping-text{width: 100%;}
+.productDetail .shipping-block{padding-left: 0;}
+/*Product Details End*/
+/*Souvenir Start*/
+.souvenirBanner{margin-top: 0}
+.shoppingStore h6{font-size: 14px; line-height: 1.5; font-weight: 600;}
+.souvenir_bnr .leftBnr-part{float: none; width: 50%;}
+.urClass .souvenir_bnr .leftBnr-part { float:left;}
+.urClass .souvenirBanner .slide-bnr .swiper-pagination {right: 0;left: auto;text-align: right;}
+.ksClass .souvenir_bnr .leftBnr-part { float:left;}
+.ksClass .souvenirBanner .slide-bnr .swiper-pagination {right: 0;left: auto;text-align: right;}
+.souvenir_bnr .leftBnr-part p{font-size: 15px; padding: 17px 0; line-height: 1.4; font-weight: normal;}
+.souvenirBanner .slide-bnr{position: relative;}
+.souvenirBanner .slide-bnr .bnr-content .freeShip{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .bnr-content .easyReturn{display: flex; align-items: center;}
+.souvenirBanner .slide-bnr .swiper-pagination{bottom: 57px;}
+.shoppingStoreBox h1{font-size: 24px; margin-bottom: 7px; margin-top: 7px}
+.shoppingStoreBox .imgHolder {padding-top: 20px;}
+.shoppingBnr{background-position: center top; background-size: auto;}
+.shppingContent{float: none; padding: 40px 0; width: 100%}
+.shppingContent h1{font-size: 2em;}
+.whatsNew{padding-top: 20px; background-position: center top; background-size: auto;}
+.shopingDetails .detailBox{margin: 10px 0;}
+.shopingDetails .detailBox .red-text{padding-top: 10px;}
+/*Souvenir End*/
+.ebookItem .imgHolder { margin-bottom: 15px; }
+.homeMediaBlock .tabContainer p.mt-4 { margin-top:0!important;}
+.souvenir_bnr .leftBnr-part h1 { font-size: 16px; }
+.souvenir_bnr .leftBnr-part h2 { font-size: 14px; }
+.souvenir_bnr .leftBnr-part .explore-btn {padding: 6px 20px;font-size: 14px;margin-top: 0;}
+.shoppingStoreBox { margin-top: 15px; }
+.shppingContent h3 {font-size: 15px;}
+.souvenirBanner .slide-bnr { padding: 10px 0; }
+.souvenirBanner .slide-bnr .freeShip { padding-right: 10px!important; }
+.souvenirBanner .slide-bnr .easyReturn{ padding-left: 10px!important; }
+.whatsNew .store_box { min-height: 1px; }
+.shoppingStoreBox h3, .TopSellingPart h3, .whatsNew h4, .TopSellingPart .productPrice { font-size: 16px; }
+.whatsNew h4 br { display: none; }
+.whatsNew h4 { margin-bottom: 0; }
+.souvenirBanner .slide-bnr .swiper-pagination {bottom: 46px;}
+.topselling_product .swiper-container { padding: 0 30px; }
+.homeage-left-section, .homeage-right-section { padding: 10px; }
+.garland-img { margin-left: 5px; }
+.garland-div { margin-bottom: 0; }
+.audiolist li { padding: 0 0 10px 0; }
+.homagePlayList li .custom-control-label { font-size:14px; }
+.homeage-btn { float:none; width:100%; text-align:center; }
+.homeage-sub-title2 { font-size: 20px; }
+.swiper-gallery-thumbs { width:80px; }
+.swiper-gallery-top {width: calc(100% - 80px);}
+.productImgSlider, .gallery-thumbs {height: 235px;}
+.productDetail .slider__image img { width:80%;}
+.productDetail .productImgSlider .swiper-slide .slider__image { padding: 15px 10px;}
+.productRightDetail .productBtnRow .btn { padding: 8px 5px; font-size: 14px; width:150px; }
+.productDetail .shipping-block { top: 0; }
+.relatedProduct .swiper-container { padding: 0 30px; }
+.productImgSlider { width:330px; }
+.bookVisitLink { width:90px; padding: 0 10px; }
+.tmClass .bookVisitLink { width: 100px;}
+#header .container { padding: 0 10px; }
+.userBtnLink .userShortName { display:none; }
+#navbar-brand { width:175px; }
+.mlClass #navbar-brand {width: 165px;}
+.userBtnLink { font-size:13px; }
+.userBtnLink .userSmallPhoto { width:20px; height:20px; }
+.userFullNameWrap .userFullName { font-size: 16px; }
+.userFullNameWrap .userSmallPhoto { width: 35px; height: 35px; }
+.competitionItem { padding: 10px; }
+.competitionItem .competitionTitle a { font-size: 16px; }
+.competitionItem .competitionDate { font-size: 13px; }
+#modalShoppingCart.cart-right-modal .cart-title { font-size: 14px; }
+#modalShoppingCart .modal-dialog-vertical { max-width:350px; }
+#modalShoppingCart .modal-footer, #modalShoppingCart .modal-body { padding: 10px; }
+.highlightsnwmItem h3 { min-height:1px !important; }
+.userDashboardList .userDasItem .titleText { font-size: 14px; }
+.userDashboardList { margin: 0 -5px; }
+.userDashboardList li { padding: 5px; }
+.muralsTab.resTab .tabNav li a {font-size: 13px; padding: 5px 1px; min-height: 50px;}
+/*.tourItem { padding-left: 130px;font-size: 16px; min-height:95px; }
+.tourItem .imgHolder { width: 100px; }*/
+.tourItem { font-size: 17px; }
+.activity-box { height:auto;}
+.mlClass .bookVisitLink { width:auto;}
+.ksClass .audioClips h3, .urClass .audioClips h3 { margin-right: 0; }
+
+.exploreYoddhas .col-lg-3 { display: block; }
+.exploreYoddhaItem .bottomCard { padding: 15px !important; }
+.exploreYoddhaItem .knowMore { position: static; }
+.ksClass .userBtnLinkWrap, .urClass .userBtnLinkWrap { margin-left: 40px; }
+.competitionDateWrap { display: block !important;}
+/*******Donate Info*******/
+.donateInfo { padding: 15px; }
+.donateInfo .rightBrd {border-right: 0;padding-right: 0;}
+.donateInfo .col-sm-5 { margin-bottom:5px; color:#8d2c2b;}
+}
+@media only screen and (max-width: 480px){
+.mobileAppFeaturesWrap ul li {width: 100%;	min-height: auto; margin-bottom:5px;}	
+}
+@media only screen and (max-width: 479px){
+.planYourVisit_metro{background-position: -74px;}
+.memoriesItem .imgHolder, .productList .memoriesItem .imgHolder { height: 210px; }
+.whatsNew .topselling_product .imgHolder { height:238px; }
+.notification .totalValue { font-size: 10px; height: 16px; right: -1px; top: -4px; }
+.notification { right: 57px; font-size: 16px; position: absolute; top: -39px; }
+.grClass .muralsTab.resTab .tabNav li a {font-size: 11px;padding: 5px 6px;min-height: 60px;}
+.selectService .custom-control-label { font-size: 13px; font-weight: 400; }
+.indianLinks li { width:30%;}
+.tmClass .muralsTab.resTab .tabNav li a{word-wrap: break-word;font-size: 11px;min-height: 60px;}
+.topStrip a { font-size:12px; }
+.grClass .yourVisit p {min-height: 63px;padding: 0 10px;}
+.kdClass .yourVisit p {min-height: 42px;}
+.khClass .topStrip li {padding: 0 2px;}
+.ngClass .indianLinks li { width: 32%; padding:0;}
+.ngClass .indianLinks li:before { display:none;}
+.tlClass .yourVisit p { min-height: 42px; }
+.mlClass .bookVisitLink {font-size: 9px; padding: 0 2px;}
+.mlClass .linkTab li a {min-height: 70px;}
+.mlClass .planYourVisit_timing {width: 47px;}
+
+.proceed-to-checkout {width: 100%; margin-right: 0 !important; margin-bottom: 5px;}
+.proceed-to-checkout a {width: 100%; text-align: center;}
+.copyright p { font-size:12px; }
+.contactDetail p {font-size: 15px;}
+.tmClass .planYourVisit .ribbon-top-right {width: 70px;}
+.competitionForm .form-group .button { width:100%; text-align:center; margin-bottom:10px; }
+.mnClass .planYourVisit_footfall {width: 44px;}
+.mlClass .planYourVisit_timing {width: 51px;}
+.ticketBookTable {overflow-x: auto; width:100%;}
+.ticketBookTable .table_responsive {width: 480px;}
+.tmClass .marqueeScrollingWrap .viewAll {position: static;margin-top: 10px;display: block;}
+
+.qrCodeWrap {margin-bottom: 30px; clear: both;}
+.qrCodeWrap .qrCodeBox .qrCodeImg {display: inline-block; text-align: center; margin-right: 0 !important;}
+.mobileAppLink.mb-4 {text-align: center;}
+}
+@media only screen and (max-width: 359px){
+.topStrip li { padding: 0 6px; }
+#navbar-brand { width: 145px; }
+.search {top: -50px;}
+.viewEventCalendar {padding: 5px 3px;font-size: 11px;}
+.viewEventCalendar .fa {margin-right: 1px;}
+.eventSmall .eventTitle a, .eventLarge .bottomCard .eventTitle {font-size: 15px;line-height: 1.3;}
+.neverForgotten h2, .upcomingEvents h2, .downloadHomeApp h2, .homeMemories h2, .honorsSearch h1 {font-size: 16px;}
+.mlClass .neverForgotten h2, .mlClass .upcomingEvents h2, .mlClass .downloadHomeApp h2, .mlClass .homeMemories h2, .mlClass .honorsSearch h1, .tmClass .neverForgotten h2, .tmClass .upcomingEvents h2, .tmClass .downloadHomeApp h2, .tmClass .homeMemories h2, .tmClass .honorsSearch h1 { font-size: 15px; }
+.selectService .custom-control-label { font-size: 13px; }
+.volunteerForm .selectDays li { width: 31%; }
+.indianLinks li a { font-size: 13px; }
+.productImgSlider {width: 290px;}
+.productImgSlider, .gallery-thumbs {height: 195px;}
+.productDetail .productImgSlider .swiper-slide .slider__image {padding: 5px 10px;}
+.productDetail .quantity-number, .productRightDetail .productBtnRow .btn { width: 130px; }
+.souvenirBanner .slide-bnr .bnr-content .freeShip, .souvenirBanner .slide-bnr .bnr-content .easyReturn {font-size: 13px;}
+.userBtnLinkWrap .dropdown-menu { width:240px; }
+.competitionDetail .competitionDate { font-size: 14px; }
+.topStrip li {padding: 0 2px;}
+.topStrip a { font-size:12px; }
+.topStrip li:before {left: -2px;}
+.userDashboardList li { -ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; }
+.muralsTab.resTab .tabNav li a{font-size: 12px;}
+.userDashboardList .userDasItem .titleText { min-height: 1px; }
+.yourVisit li, .yourVisit li:first-child { padding: 0 1px; }
+.grClass .muralsTab.resTab .tabNav li a {font-size: 11px;padding: 5px 6px;min-height: 60px;}
+.homePopupBody {max-width: 290px;}
+.homageImgWrapIndv .multiRose {bottom: 38px;width: 110px; height: 29px;margin-left: -46px;}
+homageImgWrapIndv .roseFlow {height: 50px;width: 110px;margin-left: -45px;}
+.homePopupBody .homageImgWrapIndv .smallImgHolder.active {bottom: 10px;margin-left: 10px;}
+.quizFooter .quizFooterRight .button { font-size:12px; padding-left:2px; padding-right:2px; }
+.asClass .topStrip a {font-size: 11px;}
+.exploreMurals .titleHeader h2, .exploreYoddhas .titleHeader h2 {font-size: 16px;}
+.exploreMurals .titleHeader .viewAll, .exploreYoddhas .titleHeader .viewAll {font-size: 14px;}
+.tmClass .planYourVisit .ribbon-top-right {width: 55px;}
+.tmClass .planYourVisit .ribbon-top-right span {font-size:10px;}
+}
